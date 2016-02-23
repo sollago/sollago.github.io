@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+/**
+ * If your name is Sol Lago or Ilia Kurenkov and you want to add custom rules
+ * for formatting text, feel free to edit this file!
+ */
+
+.error {
+    color: red;
+}
+
+.extraemphasize {
+	font-style: italic;
+	font-weight: bold;
+}
+
+.underline {
+	text-decoration: none;
+	border-bottom: 1px solid black;
+}
