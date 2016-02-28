@@ -1106,6 +1106,10 @@
 		text-align: center;
 	}
 
+	.figure img {
+		width: 100%;
+	}
+
 	/* Figure styling */
 	.legend {
 		background-color: #E1E2E2;

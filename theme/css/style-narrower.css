@@ -31,6 +31,10 @@
 			margin-top: 0;
 		}
 
+	p, ul, ol, dl, table, blockquote {
+		text-align: left;
+	}
+
 /* Button */
 
 	.button.small {

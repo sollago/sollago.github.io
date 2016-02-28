@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Sol Lago</title><link href="http://sollago.github.io/" rel="alternate"></link><link href="http://sollago.github.io/feeds/experiments.atom.xml" rel="self"></link><id>http://sollago.github.io/</id><updated>2016-02-27T00:00:00+01:00</updated><entry><title>This all sounds Turkish to me</title><link href="http://sollago.github.io/blog/this-all-sounds-turkish-to-me.html" rel="alternate"></link><updated>2016-02-27T00:00:00+01:00</updated><author><name>Sol Lago</name></author><id>tag:sollago.github.io,2016-02-27:blog/this-all-sounds-turkish-to-me.html</id><summary type="html">&lt;img alt="joke" class="align-center" src="http://sollago.github.io/images/attraction_joke.png" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sol Lago</title><link href="http://sollago.github.io/" rel="alternate"></link><link href="http://sollago.github.io/feeds/experiments.atom.xml" rel="self"></link><id>http://sollago.github.io/</id><updated>2016-02-27T00:00:00+01:00</updated><entry><title>This all sounds Turkish to me</title><link href="http://sollago.github.io/blog/this-all-sounds-turkish-to-me.html" rel="alternate"></link><updated>2016-02-27T00:00:00+01:00</updated><author><name>Sol Lago</name></author><id>tag:sollago.github.io,2016-02-27:blog/this-all-sounds-turkish-to-me.html</id><summary type="html">&lt;img alt="joke" class="align-center" src="http://sollago.github.io/images/attraction_joke.png" style="width: 60%;" /&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;We all make mistakes. This is true of haircuts, job interviews, extra slices of cake and crucially, language. So here is one type of language error that you may have heard before but never thought much about. How does this sentence sound to you?&lt;/p&gt;
 &lt;div class="ling-ex container"&gt;
@@ -15,7 +15,7 @@ The key to the cabinet are on the table.&lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Everyone agrees about (2): it sounds terrible, no one would say that! But if you think about it, from a purely grammatical viewpoint both sentences are equally WRONG. In both cases, the verb &lt;em&gt;&amp;quot;are&amp;quot;&lt;/em&gt; is incorrect because it should agree with &lt;em&gt;&amp;quot;key&amp;quot;&lt;/em&gt;  : it is the key that is on the table, not the cabinets! But for some reason, people like the sentence more when the verb agrees in number with &lt;em&gt;&amp;quot;cabinets&amp;quot;&lt;/em&gt;, which is a modifier (not the head) of the subject phrase. So why does (1) sound better than (2)?&lt;/p&gt;
 &lt;div class="figure align-left" style="width: 55%"&gt;
-&lt;img alt="examples" src="http://sollago.github.io/images/attraction_examples.png" style="width: 100%;" /&gt;
+&lt;img alt="examples" src="http://sollago.github.io/images/attraction_examples.png" /&gt;
 &lt;div class="legend"&gt;
 Some examples of English agreement attraction errors.&lt;/div&gt;
 &lt;/div&gt;
@@ -45,7 +45,7 @@ The key to the &lt;strong&gt;cabinets&lt;/strong&gt; &lt;span class="underline"&
 &lt;/div&gt;
 &lt;p&gt;The participants read the sentences and were asked to judge whether the sentences were acceptable or unacceptable. The researchers defined ACCEPTABLE SENTENCES as sentences that sounded like normal English sentences, and could be said by any native English speaker. Conversely, UNACCEPTABLE SENTENCES were defined as sentences that an English speaker would be unlikely to say, because they sounded weird or unnatural.&lt;/p&gt;
 &lt;div class="figure align-left" style="width: 45%"&gt;
-&lt;img alt="wagers" src="http://sollago.github.io/images/wagers.png" style="width: 100%;" /&gt;
+&lt;img alt="wagers" src="http://sollago.github.io/images/wagers.png" /&gt;
 &lt;div class="legend"&gt;
 The results from Wagers and colleagues (2009). The participants in their experiment accepted ungrammatical sentences more often when they contained the attractor &amp;quot;cabinets&amp;quot; (3d).&lt;/div&gt;
 &lt;/div&gt;
@@ -59,7 +59,7 @@ The results from Wagers and colleagues (2009). The participants in their experim
 &lt;p&gt;This is where Turkish comes in. Because Turkish has one agreement property that makes it  different from languages like English or in fact, from any of the languages tested to-date: &lt;strong&gt;in Turkish, when a subject is plural&lt;/strong&gt; like &lt;em&gt;&amp;quot;The detectives&amp;quot; (Dedektifler)&lt;/em&gt;, &lt;strong&gt;Turkish people prefer singular&lt;/strong&gt; (e.g. &lt;em&gt;&amp;quot;works&amp;quot;, çalıştı&lt;/em&gt;) &lt;strong&gt;instead of plural verbs&lt;/strong&gt; (e.g.  &lt;em&gt;&amp;quot;work&amp;quot;&lt;/em&gt;, çalıştılar). No one knows exactly why, but one possibility is that since Turkish marks plural number by adding the suffixes &lt;em&gt;-lar/-ler&lt;/em&gt; to both nouns and verbs, people might avoid plural verbs with plural subjects to not repeat the plural marker twice: e.g. &lt;em&gt;&amp;quot;The detectives work&amp;quot;&lt;/em&gt; (&lt;em&gt;&amp;quot;Dedektifler çalıştılar&amp;quot;&lt;/em&gt;, dispreferred) vs. &lt;em&gt;&amp;quot;The detectives works&amp;quot;&lt;/em&gt; (&lt;em&gt;&amp;quot;Dedektifler çalıştı&amp;quot;&lt;/em&gt;, preferred).&lt;/p&gt;
 &lt;p&gt;Regardless of the specific reason, it is known that Turkish speakers avoid producing sentences with plural verbs and plural subjects. This creates a language where, in contrast with English, people should not hear this combination often in speech. So, we wondered: &lt;em&gt;do Turkish speakers show agreement attraction in comprehension? Or is agreement attraction absent in Turkish, in contrast with English?&lt;/em&gt;&lt;/p&gt;
 &lt;div class="figure align-left" style="width: 53%"&gt;
-&lt;img alt="ankara" src="http://sollago.github.io/images/ankara.png" style="width: 100%;" /&gt;
+&lt;img alt="ankara" src="http://sollago.github.io/images/ankara.png" /&gt;
 &lt;div class="legend"&gt;
 My Ankara trip. In the pic you see me, Bilal and Orhan, from the Middle East Technical University.&lt;/div&gt;
 &lt;/div&gt;
@@ -67,7 +67,7 @@ My Ankara trip. In the pic you see me, Bilal and Orhan, from the Middle East Tec
 &lt;p&gt;First, we decided to verify that Turkish people really preferred plural to singular verbs with plural subjects. We constructed sentences like (4) in different versions. We had singular subjects with singular verbs (4a) and plural subjects with plural verbs (4b). But also, we designed two versions where the subject and verb mismatched in number: either the subject was singular and the verb was plural (4c) or the other way around (4d).&lt;/p&gt;
 &lt;p&gt;We were especially interested in cases where the subject was plural and the verb was singular (4d). These cases would be totally bad in English but they should be ok in Turkish, since Turkish speakers might prefer singular verbs to avoid repetition of the plural marker. And in fact, this is what we saw: Turkish speakers judged sentences like (4d) as acceptable almost 99% of the time!&lt;/p&gt;
 &lt;div class="figure align-left" style="width: 45%"&gt;
-&lt;img alt="plurals" src="http://sollago.github.io/images/turkish_dispreference.png" style="width: 100%;" /&gt;
+&lt;img alt="plurals" src="http://sollago.github.io/images/turkish_dispreference.png" /&gt;
 &lt;div class="legend"&gt;
 Turkish subject-verb agreement preferences. In contrast with English, Turkish speakers accept sentences with plural subjects and singular verbs (4d) almost 100% of the time.&lt;/div&gt;
 &lt;/div&gt;
@@ -103,7 +103,7 @@ Turkish subject-verb agreement preferences. In contrast with English, Turkish sp
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;But what really surprised us is what we saw next. To check whether Turkish speakers were sensitive to attraction, we tested sentences similar to those used in English before. We couldn't use sentences exactly like &lt;em&gt;&amp;quot;They key to the cabinets&amp;quot;&lt;/em&gt; in Turkish. So we used sentences where the attractors were possessor nouns like &lt;em&gt;&amp;quot;students&amp;quot;&lt;/em&gt; in &amp;quot;the &lt;strong&gt;students'&lt;/strong&gt; advisor&amp;quot;. We wanted to see whether the possessors would mislead Turkish speakers to accept ungrammatical sentences, just like &lt;em&gt;&amp;quot;cabinets&amp;quot;&lt;/em&gt; had done to English speakers. We predicted that if people made these errors in comprehension due to hearing them often, then Turkish speakers should be immune to them, as they are not likely to hear plural subject-plural verb combinations in their language.&lt;/p&gt;
 &lt;div class="figure align-left" style="width: 45%"&gt;
-&lt;img alt="turkish attraction" src="http://sollago.github.io/images/turkish_attraction.png" style="width: 100%;" /&gt;
+&lt;img alt="turkish attraction" src="http://sollago.github.io/images/turkish_attraction.png" /&gt;
 &lt;div class="legend"&gt;
 Agreement attraction in Turkish comprehension. Our participants accepted ungrammatical sentences more often when they contained a plural attractor (5d).&lt;/div&gt;
 &lt;/div&gt;
@@ -140,7 +140,7 @@ Agreement attraction in Turkish comprehension. Our participants accepted ungramm
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
 &lt;p&gt;So this is where we are now. It is kind of puzzling: despite disprefering plural subjects with plural verbs, Turkish speakers are still susceptible to attraction errors. To us, this means that attraction errors in comprehension do not occur simply because people hear these errors often in production (although admittedly, we haven't tested whether Turkish people produce attraction errors yet... If we are on the right track, they shouldn't!). More generally, our results suggest that attraction errors in production and in comprehension might not obey the same principles, which is an intriguing possibility. But then, what causes attraction in comprehension? This, I think, will be a harder question to answer. Stay tuned for updates!&lt;/p&gt;
-&lt;div class="figure align-center"&gt;
+&lt;div class="figure align-center" style="width: 30%"&gt;
 &lt;img alt="ankara_end" src="http://sollago.github.io/images/ankara_end.png" /&gt;
 &lt;div class="legend"&gt;
 My last dinner in Ankara. After a week of running Turkish participants, we felt that we deserved a drink.&lt;/div&gt;
