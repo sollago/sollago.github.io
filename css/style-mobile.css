@@ -61,7 +61,7 @@
 
 	.button {
 		max-width: 20em;
-		width: 100%;
+		margin: 2em 0;
 	}
 
 		.button.fit {
@@ -111,7 +111,8 @@
 
 	#banner {
 		background-size: 10em, 10em, auto, cover;
-		padding: 6em 0;
+		padding-top: 7em;
+		padding-bottom: 3em;
 	}
 
 		#banner .inner {
@@ -157,5 +158,5 @@
 /* Footer */
 
 	#footer {
-		padding: 3em 1.5em;
+		padding: 2em 1.5em 2em 1.5em;
 	}

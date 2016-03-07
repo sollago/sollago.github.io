@@ -505,8 +505,7 @@
 		font-size: 0.8em;
 		font-weight: 900;
 		letter-spacing: 2px;
-		min-width: 18em;
-		padding: 0.75em 0;
+		padding: 0.75em 1em;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
@@ -750,9 +749,12 @@
 
 	#mobile-nav #menu ul li {
 		/* so that list items display one per line */
-	    display: block;
-	    /* we don't need a left margin in this case */
-	    margin-left: 0
+		display: block;
+		/* we don't need a left margin in this case */
+		margin-left: 0;
+		/* Need to increase font size and space between elements for touch screens */
+		font-size: 1.2em;
+		line-height: 2.2em;
 	}
 
 /* Dropotron */
