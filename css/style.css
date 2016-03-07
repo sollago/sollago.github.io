@@ -721,7 +721,6 @@
 
 	#navigation #mobile-nav {
 		float: right;
-		margin-right: 4em;
 		display: none;
 	}
 
@@ -736,7 +735,7 @@
 	#mobile-nav #menu {
 		display: none;
 		position: absolute;
-		right: 6em;
+		right: 2em;
 		overflow: auto;
 		/* lower than header */
 		top: 5em;
