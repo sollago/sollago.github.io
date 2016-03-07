@@ -27,45 +27,45 @@ skel.init({
 
 		// Layers.
 		// Probably shouldn't mess with these (at least until I've finished the skel-layers documentation).
-			layers: {
-				topPanel: {
-					states: 'global wide normal narrow narrower mobile',
-					position: 'top-center',
-					side: 'top',
-					hidden: true,
-					animation: 'pushY',
-					width: '100%',
-					height: '75%',
-					html: '<nav data-action="navList" data-args="nav"></nav>',
-					clickToClose: true,
-					swipeToClose: false
-				},
-				topButton: {
-					states: 'global wide normal narrow narrower mobile',
-					position: 'top-center',
-					width: 120,
-					height: 50,
-					html: '<span class="toggle" data-action="toggleLayer" data-args="topPanel"></span>'
-				},
-				sidePanel: {
-					states: 'global wide normal narrow narrower',
-					position: 'top-left',
-					side: 'left',
-					hidden: true,
-					animation: 'revealX',
-					width: 250,
-					height: '100%',
-					html: '<nav data-action="navList" data-args="nav"></nav>',
-					clickToClose: true
-				},
-				sideButton: {
-					states: 'global wide normal narrow narrower',
-					position: 'top-left',
-					width: 100,
-					height: 60,
-					html: '<span class="toggle" data-action="toggleLayer" data-args="sidePanel"></span>'
-				}
-			}
+			// layers: {
+			// 	topPanel: {
+			// 		states: 'global wide normal narrow narrower mobile',
+			// 		position: 'top-center',
+			// 		side: 'top',
+			// 		hidden: true,
+			// 		animation: 'pushY',
+			// 		width: '100%',
+			// 		height: '75%',
+			// 		html: '<nav data-action="navList" data-args="nav"></nav>',
+			// 		clickToClose: true,
+			// 		swipeToClose: false
+			// 	},
+			// 	topButton: {
+			// 		states: 'global wide normal narrow narrower mobile',
+			// 		position: 'top-center',
+			// 		width: 120,
+			// 		height: 50,
+			// 		html: '<span class="toggle" data-action="toggleLayer" data-args="topPanel"></span>'
+			// 	},
+			// 	sidePanel: {
+			// 		states: 'global wide normal narrow narrower',
+			// 		position: 'top-left',
+			// 		side: 'left',
+			// 		hidden: true,
+			// 		animation: 'revealX',
+			// 		width: 250,
+			// 		height: '100%',
+			// 		html: '<nav data-action="navList" data-args="nav"></nav>',
+			// 		clickToClose: true
+			// 	},
+			// 	sideButton: {
+			// 		states: 'global wide normal narrow narrower',
+			// 		position: 'top-left',
+			// 		width: 100,
+			// 		height: 60,
+			// 		html: '<span class="toggle" data-action="toggleLayer" data-args="sidePanel"></span>'
+			// 	}
+			// }
 	}
 });
 

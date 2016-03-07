@@ -623,7 +623,7 @@
 
 		#header nav {
 			letter-spacing: 0.075em;
-			position: absolute;
+			/*position: absolute;*/
 			right: 1.5em;
 			text-transform: uppercase;
 			top: 0.75em;
@@ -707,6 +707,53 @@
 				#header.alt nav ul li.active > a, #header.alt nav ul li:hover > a {
 					border: solid 1px;
 				}
+	#header #navigation {
+		float: right;
+		padding: 0.5em;
+	}
+
+	#header #nav {
+		float: left;
+	}
+
+	/**
+	 * Mobile nav styling
+	 */
+
+	#navigation #mobile-nav {
+		float: right;
+		margin-right: 4em;
+		display: none;
+	}
+
+	#mobile-nav .icon {
+		/**
+		 * for some reason the default cursor for icons is not the pointer
+		 * so we have to set this explicitly.
+		 */
+		cursor: pointer;
+	}
+
+	#mobile-nav #menu {
+		display: none;
+		position: absolute;
+		right: 6em;
+		overflow: auto;
+		/* lower than header */
+		top: 5em;
+		padding: 1em;
+		color: black;
+		/* Shamelessly copied from #header */
+		background:  #f7f5f0;
+		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
+	}
+
+	#mobile-nav #menu ul li {
+		/* so that list items display one per line */
+	    display: block;
+	    /* we don't need a left margin in this case */
+	    margin-left: 0
+	}
 
 /* Dropotron */
 
@@ -1145,11 +1192,12 @@
 	#header .logo {
 		font-size: 200%;
 		font-weight: 300;
+		float: left;
 	}
 
-	#header #nav {
+	/*#header #nav {
 		top: 1.5em;
-	}
+	}*/
 
 	#main.after-banner {
 		padding: 4em 0;

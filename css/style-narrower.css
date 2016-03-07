@@ -67,8 +67,12 @@
 
 /* Header */
 
-	#header {
+	#header #nav {
 		display: none;
+	}
+
+	#navigation #mobile-nav {
+		display: block;
 	}
 
 /* Banner */
