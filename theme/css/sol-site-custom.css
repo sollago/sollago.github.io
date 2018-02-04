@@ -5,8 +5,16 @@
  * for formatting text, feel free to edit this file!
  */
 
-.error {
+.center {
+	text-align: center;
+}
+
+.red {
     color: red;
+}
+
+.blue {
+    color: mediumblue;
 }
 
 .extraemphasize {
@@ -18,3 +26,22 @@
 	text-decoration: none;
 	border-bottom: 1px solid black;
 }
+
+.titlegram {
+	text-decoration: none;
+	border-bottom: 1px solid mediumblue;
+	color: mediumblue;
+	font-weight: bold;
+}
+
+.titleungram {
+	text-decoration: none;
+	border-bottom: 1px solid red;
+	color: red;
+	font-weight: bold;
+}
+
+	table.default thead {
+				background: #7c8081;
+				color: #fff;
+			}
