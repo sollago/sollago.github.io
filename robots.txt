@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://sollago.github.io/sitemap.xml
