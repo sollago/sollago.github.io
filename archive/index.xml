@@ -5,7 +5,7 @@
     <link>https://sollago.github.io/archive/</link>
       <atom:link href="https://sollago.github.io/archive/index.xml" rel="self" type="application/rss+xml" />
     <description>Archives</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sollago.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Archives</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Publications</title>
       <link>https://sollago.github.io/archive/publication/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://sollago.github.io/archive/publication/</guid>
       <description>&lt;div class=&#34;section&#34; id=&#34;articles-in-progress&#34;&gt;
 &lt;h2&gt;Articles in progress&lt;/h2&gt;
@@ -25,14 +25,20 @@
 &lt;br&gt;&lt;br&gt;
 &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 &lt;strong&gt;Lago, S.&lt;/strong&gt;, Acuña Fariña, C., &amp;amp; Meseguer, E.  (&lt;em&gt;in revision&lt;/em&gt;). The reading signatures of agreement attraction.
-&lt;br&gt;&lt;br&gt;
-&lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-Paape, D., Avetisyan, S., &lt;strong&gt;Lago, S.&lt;/strong&gt;, &amp;amp; Vasishth, S. (&lt;em&gt;accepted&lt;/em&gt;). Misretrieval and feature substitution in agreement attraction: A computational evaluation.&lt;em&gt; Cognitive Science&lt;/em&gt;.
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class=&#34;section&#34; id=&#34;id1&#34;&gt;
 &lt;h2&gt;2021&lt;/h2&gt;
 &lt;ul class=&#34;default simple&#34;&gt;
+&lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+Paape, D., Avetisyan, S., &lt;strong&gt;Lago, S.&lt;/strong&gt;, &amp;amp; Vasishth, S. (2021). Misretrieval and feature substitution in agreement attraction: A computational evaluation.&lt;em&gt; Cognitive Science&lt;/em&gt;, 45: e13019.
+&lt;br&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://onlinelibrary.wiley.com/doi/10.1111/cogs.13019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Publication
+&lt;/a&gt;&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://osf.io/ykjg7/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Data
+&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
 &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 Patil, U., &amp;amp; &lt;strong&gt;Lago, S.&lt;/strong&gt; (2021). Prediction advantage as retrieval interference: an ACT-R model of processing possessive pronouns. &lt;em&gt;Proceedings of the 2021 International Conference on Cognitive Modeling&lt;/em&gt;.
 &lt;br&gt;
