@@ -1,0 +1,19 @@
+.menu-link{
+    &:hover{
+        color: #e4d2a9 ;
+    }
+}
+
+.avatar{
+    transform: scale(0.75);
+    margin-top: -3.4rem;
+}
+
+.author-card{
+    .avatar{transform: translateY(60px)}
+}
+
+#person-email{
+        margin-bottom: 18px;
+        display: block;
+    }
