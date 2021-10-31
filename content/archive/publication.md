@@ -20,14 +20,15 @@ share: false
 <h2>2021</h2>
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Mertzen, D., <strong>Lago, S.</strong>, &amp; Vasishth, S. (2021). The benefits of preregistration for hypothesis-driven bilingualism research. <em>Bilingualism: Language and Cognition</em>, 1–6.
+<strong>Lago, S.</strong>, Acuña Fariña, C., & Meseguer Felip, E. (2021). The reading signatures of agreement attraction. <em>Open Mind</em>, 5, 132–153.
 <br>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1017/S1366728921000031" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1162/opmi_a_00047" target="_blank" rel="noopener">
   Publication
 </a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/5ab7d/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/f8bt7" target="_blank" rel="noopener">
   Data
-</a><br><br>
+</a>
+<br><br>
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Paape, D., Avetisyan, S., <strong>Lago, S.</strong>, &amp; Vasishth, S. (2021). Misretrieval and feature substitution in agreement attraction: A computational evaluation.<em> Cognitive Science</em>, 45: e13019.
 <br>
