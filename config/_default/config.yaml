@@ -6,6 +6,7 @@
 title: Sol Lago # Website name
 baseurl: 'https://sollago.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
+publishDir: 'docs'
 
 ############################
 ## LANGUAGE
