@@ -14,9 +14,6 @@ share: false
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S.</strong>, Stone, K., Oltrogge, E., & Veríssimo, J. (<em>in preparation</em>). Possessive gender predictions in bilingual comprehension.
-<br><br>
-<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-<strong>Lago, S.</strong>, Acuña Fariña, C., &amp; Meseguer, E.  (<em>in revision</em>). The reading signatures of agreement attraction.
 </ul>
 </div>
 <div class="section" id="id1">
