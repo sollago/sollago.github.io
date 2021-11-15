@@ -219,6 +219,9 @@ Experimental Psychology: Learning, Memory, and Cognition</em>, 43(5), 795–817.
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1037/xlm0000343" target="_blank" rel="noopener">
 Publication
 </a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/6qtva/" target="_blank" rel="noopener">
+Preprint
+</a>
 </ul>
 </div>
 <div class="section" id="id6">
