@@ -82,7 +82,7 @@ Mertzen, D., <strong>Lago, S.</strong>, &amp; Vasishth, S. (2021). The benefits 
 <h2>2020</h2>
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Stone, K., <strong>Lago, S.</strong>, &amp; Schad, D. (2020). Divergence point analyses of visual world data: applications to bilingual research. <em>Bilingualism: Language and Cognition</em>, 1–9. 
+Stone, K., <strong>Lago, S.</strong>, &amp; Schad, D. (2020). Divergence point analyses of visual world data: applications to bilingual research. <em>Bilingualism: Language and Cognition</em>, 24(5), 833–841.. 
 <br>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/divergence-point-analyses-of-visual-world-data-applications-to-bilingual-research/325BF47B14353AA05197E23301E2624E" target="_blank" rel="noopener">
 Publication
