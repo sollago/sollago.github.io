@@ -21,7 +21,7 @@ design:
 ---
 <ul class="default">
     <li>
-    <b>Interested in doing a Ph.D. in Spanish psycholinguistics?</b> I’m hiring a Ph.D. student for 2022. Application deadline: January 15th. Info and how to apply: <a target="blank" href="https://linguistlist.org/issues/32.3707">[here]</a>.
+    <b>Interested in doing a Ph.D. in Spanish psycholinguistics?</b> I’m hiring a Ph.D. student for 2022. Application deadline: ⏰ January 15, 2022. Info and how to apply: <a target="blank" href="https://linguistlist.org/issues/32.3707">[here]</a>
     </li>
     <br>
     <li>
