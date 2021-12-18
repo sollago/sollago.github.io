@@ -14,6 +14,7 @@ share: false
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S.</strong>, Stone, K., Oltrogge, E., & Veríssimo, J. (<em>submitted</em>). Possessive predictions in bilingual comprehension.
+<br>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/t6gnv/" target="_blank" rel="noopener">
   Data
 </a>
