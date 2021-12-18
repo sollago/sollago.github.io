@@ -5,7 +5,7 @@
     <link>https://sollago.github.io/archive/</link>
       <atom:link href="https://sollago.github.io/archive/index.xml" rel="self" type="application/rss+xml" />
     <description>Archives</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sollago.github.io/media/icon_hu00cb571a96e7b38f431cf9ce4bf83aff_48506_512x512_fill_lanczos_center_2.png</url>
       <title>Archives</title>
@@ -15,13 +15,14 @@
     <item>
       <title>Publications</title>
       <link>https://sollago.github.io/archive/publication/</link>
-      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://sollago.github.io/archive/publication/</guid>
       <description>&lt;div class=&#34;section&#34; id=&#34;articles-in-progress&#34;&gt;
 &lt;h2&gt;Articles in progress&lt;/h2&gt;
 &lt;ul class=&#34;default simple&#34;&gt;
 &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 &lt;strong&gt;Lago, S.&lt;/strong&gt;, Stone, K., Oltrogge, E., &amp; Veríssimo, J. (&lt;em&gt;submitted&lt;/em&gt;). Possessive predictions in bilingual comprehension.
+&lt;br&gt;
 &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://osf.io/t6gnv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Data
 &lt;/a&gt;
