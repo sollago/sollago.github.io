@@ -13,7 +13,7 @@ share: false
 <h2>Articles in progress</h2>
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-<strong>Lago, S.</strong>, Stone, K., Oltrogge, E., & Veríssimo, J. (<em>in preparation</em>). Possessive gender predictions in bilingual comprehension.
+<strong>Lago, S.</strong>, Stone, K., Oltrogge, E., & Veríssimo, J. (<em>submitted</em>). Possessive predictions in bilingual comprehension.
 </ul>
 </div>
 <div class="section" id="id1">
