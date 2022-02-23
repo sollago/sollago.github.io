@@ -2,7 +2,7 @@
 name = "Theme"
 
 # Optional Google font URL
-google_fonts = "family=Lato&display=swap"
+google_fonts = "family=Lato&family=Montserrat&family=Roboto+Mono&display=swap"
 
 # Font families
 heading_font = "Montserrat"
