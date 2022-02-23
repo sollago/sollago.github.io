@@ -5,7 +5,7 @@ name = "Theme"
 google_fonts = "family=Lato&family=Montserrat&family=Roboto+Mono&display=swap"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "Lato"
 body_font = "Lato"
 nav_font = "Lato"
 mono_font = "Roboto Mono"
