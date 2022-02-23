@@ -2,10 +2,10 @@
 name = "Theme"
 
 # Optional Google font URL
-google_fonts = "family=Lato:wght@300&family=Montserrat&family=Roboto+Mono&display=swap"
+google_fonts = "family=Lato:wght@400&family=Montserrat&family=Roboto+Mono&display=swap"
 
 # Font families
-heading_font = "Lato" # this needs to be changed
+heading_font = "Lato" 
 body_font = "Lato"
 nav_font = "Lato"
 mono_font = "Roboto Mono"
