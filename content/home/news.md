@@ -21,7 +21,7 @@ design:
 ---
 <ul class="default">
     <li>
-      <strong>EVOLVE grant</strong>: in 2022 my colleague<a target="blank" href=https://www.uni-frankfurt.de/44033774/Prof__Dr__Esther_Rinke>Esther Rinke</a> and me will start a new project looking at whether processes of diachronic change can predict variability in the behavior of heritage speakers of Spanish and Portuguese <a target="blank" href=https://gepris.dfg.de/gepris/projekt/468764275?language=en>[read more]</a>
+      <strong>EVOLVE grant</strong>: in 2022 my colleague<a target="blank" href=https://www.uni-frankfurt.de/44033774/Prof__Dr__Esther_Rinke> Esther Rinke</a> and me will start a new project looking at whether processes of diachronic change can predict variability in the behavior of heritage speakers of Spanish and Portuguese <a target="blank" href=https://gepris.dfg.de/gepris/projekt/468764275?language=en>[read more]</a>
     </li>
     <br>
     <li>
