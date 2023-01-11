@@ -40,23 +40,21 @@ design:
 <div class="row">
   <div class="col-12 col-lg-11">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Patil, U., &amp; <strong>Lago, S.</strong> (2021). Prediction advantage as retrieval interference: An ACT-R model of processing possessive pronouns. In T. C. Stewart (Ed.), <em>Proceedings of the 19th International Conference on Cognitive Modelling</em> (pp. 213–219). Applied Cognitive Science Lab, Penn State.
+<strong>Lago, S.</strong> K., Oltrogge, E., & Veríssimo, J. (2022). Possessive processing in bilingual comprehension. <em>Language Learning.</em> (pp. 213–219). 
 <br>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://acs.ist.psu.edu/papers/ICCM2021Proceedings.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/lang.12556" target="_blank" rel="noopener">
   Publication
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/9vwa3/" target="_blank" rel="noopener">
-  Preprint
-</a><a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/fsbzw/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/t6gnv/" target="_blank" rel="noopener">
   Data
 </a>
 <br><br>
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Stone, K., Veríssimo, J., Schad, D., Oltrogge, E., Vasishth, S., &amp; <strong>Lago, S</strong>. (2021). The interaction of grammatically distinct agreement dependencies in predictive processing. <em>Language, Cognition and Neuroscience</em>, 36(9), 1159–1179.
+Patil, U., &amp; <strong>Lago, S</strong> (2022). Computational cognitive modeling of predictive sentence processing in a second language. <em>Proceedings of the SIGNLL Conference on Computational Natural Language Learning.</em>, 36(9), 1159–1179.
 <br>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1080/23273798.2021.1921816" target="_blank" rel="noopener">
-  Publication
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/rkuqz/" target="_blank" rel="noopener">
+  Preprint
 </a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/mbtcd/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/p28k6/" target="_blank" rel="noopener">
   Data
 </a>
 <br><br>
