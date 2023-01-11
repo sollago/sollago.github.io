@@ -13,12 +13,36 @@ share: false
 <h2>Articles in progress</h2>
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-<strong>Lago, S.</strong>, Stone, K., Oltrogge, E., & Veríssimo, J. (<em>submitted</em>). Possessive processing in bilingual comprehension.
+Rinke, E., <strong>Lago, S.</strong>, & Gattei, C. A. (submitted). Diachronic change and variation in use: Judgments of clitic doubling in Peninsular vs. Rioplatense Spanish.
+</ul>
 <br>
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Pañeda, C. & <strong>Lago, S.</strong> (submitted). The missing VP illusion in Spanish: assessing the role of language statistics and working memory.
+</ul>
+</div>
+<div class="section" id="id1">
+<h2>2022</h2>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+<strong>Lago, S.</strong>, Stone, K., Oltrogge, E., & Veríssimo, J. (2022). Possessive processing in bilingual comprehension. <em>Language Learning</em>, 5, 132–153.
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/lang.12556" target="_blank" rel="noopener">
+  Publication
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/t6gnv/" target="_blank" rel="noopener">
   Data
 </a>
-</ul>
+<br><br>
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Patil, U., &amp; <strong>Lago, S</strong> (2022). Computational cognitive modeling of predictive sentence processing in a second language. <em>Proceedings of the SIGNLL Conference on Computational Natural Language Learning.</em>, 36(9), 1159–1179.
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/rkuqz/" target="_blank" rel="noopener">
+  Preprint
+</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/p28k6/" target="_blank" rel="noopener">
+  Data
+</a>
 </div>
 <div class="section" id="id1">
 <h2>2021</h2>
