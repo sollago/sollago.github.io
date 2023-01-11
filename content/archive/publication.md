@@ -3,7 +3,7 @@ title: "Publications"
 layout: archive
 # hidden: true
 type: posts
-date: "2021-12-18"
+date: "2023-01-11"
 #summary: This page contains an archive of all posts.
 share: false
 
@@ -25,7 +25,7 @@ Pañeda, C. & <strong>Lago, S.</strong> (submitted). The missing VP illusion in 
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-<strong>Lago, S.</strong>, Stone, K., Oltrogge, E., & Veríssimo, J. (2022). Possessive processing in bilingual comprehension. <em>Language Learning</em>, 5, 132–153.
+<strong>Lago, S.</strong>, Stone, K., Oltrogge, E., & Veríssimo, J. (2022). Possessive processing in bilingual comprehension. <em>Language Learning.</em>
 <br>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/lang.12556" target="_blank" rel="noopener">
   Publication
@@ -34,7 +34,7 @@ Pañeda, C. & <strong>Lago, S.</strong> (submitted). The missing VP illusion in 
 </a>
 <br><br>
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Patil, U., &amp; <strong>Lago, S</strong> (2022). Computational cognitive modeling of predictive sentence processing in a second language. <em>Proceedings of the SIGNLL Conference on Computational Natural Language Learning.</em>, 36(9), 1159–1179.
+Patil, U., &amp; <strong>Lago, S</strong> (2022). Computational cognitive modeling of predictive sentence processing in a second language. <em>Proceedings of the SIGNLL Conference on Computational Natural Language Learning.</em>
 <br>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/rkuqz/" target="_blank" rel="noopener">
   Preprint
@@ -97,7 +97,7 @@ Mertzen, D., <strong>Lago, S.</strong>, &amp; Vasishth, S. (2021). The benefits 
 </a>
 <br><br>
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-<strong>Lago, S.</strong> (2021). Some challenges of relating wholesale transfer approaches to L3 linguistic behavior. Commentary on Schwartz and Sprouse’s keynote article entitled “The Full Transfer/Full Access model and L3 cognitive states”. <em>Linguistic Approaches to Bilingualism</em>.
+<strong>Lago, S.</strong> (2021). Some challenges of relating wholesale transfer approaches to L3 linguistic behavior. <em>Linguistic Approaches to Bilingualism,</em> 11(1), 75–78.
 <br>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1075/lab.20075.lag" target="_blank" rel="noopener">
   Publication
