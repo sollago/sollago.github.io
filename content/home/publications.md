@@ -49,7 +49,7 @@ design:
 </a>
 <br><br>
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Patil, U., &amp; <strong>Lago, S</strong> (2022). Computational cognitive modeling of predictive sentence processing in a second language. <em>Proceedings of the SIGNLL Conference on Computational Natural Language Learning.</em>
+Patil, U., &amp; <strong>Lago, S.</strong> (2022). Computational cognitive modeling of predictive sentence processing in a second language. <em>Proceedings of the SIGNLL Conference on Computational Natural Language Learning.</em>
 <br>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/rkuqz/" target="_blank" rel="noopener">
   Preprint
