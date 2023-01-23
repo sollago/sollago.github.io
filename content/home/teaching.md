@@ -83,7 +83,7 @@ design:
       <h4 style = "font-size:16px">Multilingual research</h4>
       <div class="card-desription">
         <p style = "font-size:14px">Master's seminar at Goethe University Frankfurt / <br>
-Instructor, bachelor seminar at University of Potsdam</p>
+Bachelor seminar at University of Potsdam</p>
       </div>
     </div>
   </div>
@@ -96,7 +96,7 @@ Instructor, bachelor seminar at University of Potsdam</p>
   <div class="card-text">
       <h4 style = "font-size:16px">Cognitive foundations of learning</h4>
       <div class="card-desription">
-        <p style = "font-size:14px">Bachelor seminar at Goethe University Frankfurt</p>
+        <p style = "font-size:14px">Bachelor/Lehramt seminar at Goethe University Frankfurt</p>
       </div>
     </div>
   </div>
@@ -108,7 +108,7 @@ Instructor, bachelor seminar at University of Potsdam</p>
   <div class="card-text">
       <h4 style = "font-size:16px">Spanish and bilingualism</h4>
       <div class="card-desription">
-        <p style = "font-size:14px">Bachelor seminar at Goethe University Frankfurt</p>
+        <p style = "font-size:14px">Bachelor/Lehramt seminar at Goethe University Frankfurt</p>
       </div>
     </div>
   </div>
@@ -120,7 +120,7 @@ Instructor, bachelor seminar at University of Potsdam</p>
   <div class="card-text">
       <h4 style = "font-size:16px">Spanish, bilingualism and education</h4>
       <div class="card-desription">
-        <p style = "font-size:14px">Bachelor seminar at Goethe University Frankfurt</p>
+        <p style = "font-size:14px">Bachelor/Lehramt seminar at Goethe University Frankfurt</p>
       </div>
     </div>
   </div>
@@ -132,7 +132,7 @@ Instructor, bachelor seminar at University of Potsdam</p>
   <div class="card-text">
       <h4 style = "font-size:16px">Memory and language processing</h4>
       <div class="card-desription">
-        <p style = "font-size:14px">Bachelor seminar at University of Maryland</p>
+        <p style = "font-size:14px">Bachelor/Lehramt seminar at University of Maryland</p>
       </div>
     </div>
   </div>
