@@ -13,13 +13,29 @@ share: false
 <h2>Articles in progress</h2>
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Rinke, E., <strong>Lago, S.</strong>, & Gattei, C. A. (submitted). Diachronic change and variation in use: Judgments of clitic doubling in Peninsular vs. Rioplatense Spanish.
+Listanti, A., <strong>Lago, S.</strong>, & Torregrossa (submitted). The processing of non-canonical verb-subject orders in Italian: Does the type of verb matter?
 </ul>
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Pañeda, C. & <strong>Lago, S.</strong> (submitted). The missing VP illusion in Spanish: assessing the role of language statistics and working memory.
 </ul>
 </div>
+<div class="section" id="id1">
+<h2>2023</h2>
+
+<ul class="default simple">
+
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Rinke, E., <strong>Lago, S.</strong>, & Gattei, C. A. (2023). Diachronic change and variation in use: Judgments of clitic doubling in Peninsular vs. Rioplatense Spanish. <em>Isogloss. Open Journal of Romance Linguistics</em>, 9(1), 1–18.
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5565/rev/isogloss.293" target="_blank" rel="noopener">
+  Publication
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/hj4d7/" target="_blank" rel="noopener">
+  Data
+</a>
+</ul>
+</div>
+
 <div class="section" id="id1">
 <h2>2022</h2>
 
