@@ -15,7 +15,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- PsycholinguisticsTESTTEST
+- Psycholinguistics
 - Romance Languages
 - Second Language Processing
 - Multilingualism
