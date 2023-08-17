@@ -3,8 +3,8 @@ title: "Publications"
 layout: archive
 # hidden: true
 type: posts
-date: "2023-01-11"
-#summary: This page contains an archive of all posts.
+date: "2023-08-17"
+# summary: This page contains an archive of all posts.
 share: false
 
 
@@ -13,13 +13,14 @@ share: false
 <h2>Articles in progress</h2>
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Listanti, A., <strong>Lago, S.</strong>, & Torregrossa (submitted). The processing of non-canonical verb-subject orders in Italian: Does the type of verb matter?
+Listanti, A., <strong>Lago, S.</strong>, & Torregrossa (submitted). The processing of agreement in non-canonical verb-subject orders in Italian: Does the type of verb matter?
 </ul>
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Pañeda, C. & <strong>Lago, S.</strong> (submitted). The missing VP illusion in Spanish: assessing the role of language statistics and working memory.
 </ul>
 </div>
+
 <div class="section" id="id1">
 <h2>2023</h2>
 
