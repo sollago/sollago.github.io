@@ -13,6 +13,7 @@ share: false
 <h2>In progress</h2>
 
 <ul class="default simple">
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Sá Leite, A. R., & <strong>Lago, S.</strong>, & Torregrossa (submitted). The role of word form in gender processing during lexical access: A conceptual review and novel proposal in language comprehension.
 </ul>
@@ -34,8 +35,8 @@ Pañeda, C. & <strong>Lago, S.</strong> (submitted). The missing VP illusion in 
 <ul class="default simple">
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-<strong>Lago, S.</strong>, Stone, K., Oltrogge, E., & Veríssimo, J. (2023). Possessive processing in bilingual comprehension. <em>Language Learning</em>, 73(3), 904–941. 
-
+<strong>Lago, S.</strong>, Stone, K., Oltrogge, E., & Veríssimo, J. (2023). Possessive processing in bilingual comprehension. <em>Language Learning</em>, 73(3), 904–941.
+<br>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/lang.12556" target="_blank" rel="noopener">
   Publication
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/t6gnv/" target="_blank" rel="noopener">
@@ -70,9 +71,12 @@ Patil, U., &amp; <strong>Lago, S.</strong> (2022). Computational cognitive model
 </a>
 </div>
 <div class="section" id="id1">
+
 <h2>2021</h2>
 <ul class="default simple">
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
 <strong>Lago, S.</strong>, Acuña Fariña, C., & Meseguer Felip, E. (2021). The reading signatures of agreement attraction. <em>Open Mind</em>, 5, 132–153.
 <br>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1162/opmi_a_00047" target="_blank" rel="noopener">
@@ -82,6 +86,7 @@ Patil, U., &amp; <strong>Lago, S.</strong> (2022). Computational cognitive model
   Data
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Paape, D., Avetisyan, S., <strong>Lago, S.</strong>, &amp; Vasishth, S. (2021). Misretrieval and feature substitution in agreement attraction: A computational evaluation.<em> Cognitive Science</em>, 45: e13019.
 <br>
@@ -91,6 +96,7 @@ Paape, D., Avetisyan, S., <strong>Lago, S.</strong>, &amp; Vasishth, S. (2021). 
   Data
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Patil, U., &amp; <strong>Lago, S.</strong> (2021). Prediction advantage as retrieval interference: An ACT-R model of processing possessive pronouns. In T. C. Stewart (Ed.), <em>Proceedings of the 19th International Conference on Cognitive Modelling</em> (pp. 213–219). Applied Cognitive Science Lab, Penn State.
 <br>
