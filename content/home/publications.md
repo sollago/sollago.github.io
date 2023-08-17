@@ -49,7 +49,7 @@ Rinke, E., <strong>Lago, S.</strong>, & Gattei, C. A. (2023). Diachronic change 
 </a>
 <br><br>
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-<strong>Lago, S.</strong> Stone, K., Oltrogge, E., & Veríssimo, J. (2023). Possessive processing in bilingual comprehension. <em>Language Learning.</em>
+<strong>Lago, S.</strong> Stone, K., Oltrogge, E., & Veríssimo, J. (2023). Possessive processing in bilingual comprehension. <em>Language Learning</em> 73(3), 904–941.
 <br>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/lang.12556" target="_blank" rel="noopener">
   Publication
@@ -67,17 +67,13 @@ Patil, U., &amp; <strong>Lago, S.</strong> (2022). Computational cognitive model
   Data
 </a>
 
- 
   </div>
   
   <div class="btn-links">
     
   </div>
   
-
 </div>
-
-
 
 <div class="see-all">
       <a href="/archive/publication/" target="_blank">

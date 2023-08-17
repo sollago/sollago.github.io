@@ -10,11 +10,18 @@ share: false
 
 ---
 <div class="section" id="articles-in-progress">
-<h2>Articles in progress</h2>
+<h2>In progress</h2>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Sá Leite, A. R., & <strong>Lago, S.</strong>, & Torregrossa (submitted). The role of word form in gender processing during lexical access: A conceptual review and novel proposal in language comprehension.
+</ul>
+
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Listanti, A., <strong>Lago, S.</strong>, & Torregrossa (submitted). The processing of agreement in non-canonical verb-subject orders in Italian: Does the type of verb matter?
 </ul>
+
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Pañeda, C. & <strong>Lago, S.</strong> (submitted). The missing VP illusion in Spanish: assessing the role of language statistics and working memory.
@@ -25,6 +32,16 @@ Pañeda, C. & <strong>Lago, S.</strong> (submitted). The missing VP illusion in 
 <h2>2023</h2>
 
 <ul class="default simple">
+
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+<strong>Lago, S.</strong>, Stone, K., Oltrogge, E., & Veríssimo, J. (2023). Possessive processing in bilingual comprehension. <em>Language Learning</em>, 73(3), 904–941. 
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/lang.12556" target="_blank" rel="noopener">
+  Publication
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/t6gnv/" target="_blank" rel="noopener">
+  Data
+</a>
+<br><br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Rinke, E., <strong>Lago, S.</strong>, & Gattei, C. A. (2023). Diachronic change and variation in use: Judgments of clitic doubling in Peninsular vs. Rioplatense Spanish. <em>Isogloss. Open Journal of Romance Linguistics</em>, 9(1), 1–18.
@@ -41,15 +58,7 @@ Rinke, E., <strong>Lago, S.</strong>, & Gattei, C. A. (2023). Diachronic change 
 <h2>2022</h2>
 
 <ul class="default simple">
-<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-<strong>Lago, S.</strong>, Stone, K., Oltrogge, E., & Veríssimo, J. (2022). Possessive processing in bilingual comprehension. <em>Language Learning.</em>
-<br>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/lang.12556" target="_blank" rel="noopener">
-  Publication
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/t6gnv/" target="_blank" rel="noopener">
-  Data
-</a>
-<br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Patil, U., &amp; <strong>Lago, S.</strong> (2022). Computational cognitive modeling of predictive sentence processing in a second language. <em>Proceedings of the SIGNLL Conference on Computational Natural Language Learning.</em>
 <br>
