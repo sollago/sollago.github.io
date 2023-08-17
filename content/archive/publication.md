@@ -35,7 +35,7 @@ Pañeda, C. & <strong>Lago, S.</strong> (submitted). The missing VP illusion in 
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S.</strong>, Stone, K., Oltrogge, E., & Veríssimo, J. (2023). Possessive processing in bilingual comprehension. <em>Language Learning</em>, 73(3), 904–941. 
-<br>
+
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/lang.12556" target="_blank" rel="noopener">
   Publication
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/t6gnv/" target="_blank" rel="noopener">
