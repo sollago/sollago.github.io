@@ -63,6 +63,9 @@ Rinke, E., <strong>Lago, S.</strong>, & Gattei, C. A. (2023). Diachronic change 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Patil, U., &amp; <strong>Lago, S.</strong> (2022). Computational cognitive modeling of predictive sentence processing in a second language. <em>Proceedings of the SIGNLL Conference on Computational Natural Language Learning.</em>
 <br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://aclanthology.org/2022.conll-1.23/" target="_blank" rel="noopener">
+  Publication
+</a>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/rkuqz/" target="_blank" rel="noopener">
   Preprint
 </a>
