@@ -76,7 +76,6 @@ Patil, U., &amp; <strong>Lago, S.</strong> (2022). Computational cognitive model
 <ul class="default simple">
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
 <strong>Lago, S.</strong>, Acuña Fariña, C., & Meseguer Felip, E. (2021). The reading signatures of agreement attraction. <em>Open Mind</em>, 5, 132–153.
 <br>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1162/opmi_a_00047" target="_blank" rel="noopener">
