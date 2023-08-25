@@ -15,7 +15,7 @@ share: false
 <ul class="default simple">
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Sá Leite, A. R., & <strong>Lago, S.</strong>, & Torregrossa (submitted). The role of word form in gender processing during lexical access: A conceptual review and novel proposal in language comprehension.
+Sá Leite, A. R., & <strong>Lago, S.</strong> (submitted). The role of word form in gender processing during lexical access: A conceptual review and novel proposal in language comprehension.
 </ul>
 
 <ul class="default simple">
