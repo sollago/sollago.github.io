@@ -21,7 +21,7 @@ design:
 ---
 <ul class="default">
     <li>
-      The Romance Lab keeps growing! In 2024 we will welcome two postdoctoral researchers to work within a new collaborative resarch center: "<a target="blank" href=https://gepris.dfg.de/gepris/projekt/509468465?language=en>Negation in Language and Beyond (NegLaB)</a>" <a target="blank" href=https://www.uni-frankfurt.de/103073496/Team> [meet our team]</a>
+      The Romance Lab keeps growing! In 2024 we will welcome two postdoctoral researchers to work within a new collaborative research center: "<a target="blank" href=https://gepris.dfg.de/gepris/projekt/509468465?language=en>Negation in Language and Beyond (NegLaB)</a>" <a target="blank" href=https://www.uni-frankfurt.de/103073496/Team> [meet our team]</a>
     </li>
     <br>
     <li>
