@@ -13,19 +13,44 @@ share: false
 <h2>In progress</h2>
 
 <ul class="default simple">
-
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Sá Leite, A. R., & <strong>Lago, S.</strong> (submitted). The role of word form in gender processing during lexical access: A conceptual review and novel proposal in language comprehension.
+Sá Leite, A. R., & <strong>Lago, S.</strong> (in press). The role of word form in gender processing during lexical access: A conceptual review and novel proposal in language comprehension.
 </ul>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Listanti, A., <strong>Lago, S.</strong>, & Torregrossa (submitted). The processing of agreement in non-canonical verb-subject orders in Italian: Does the type of verb matter?
+<strong>Lago, S.</strong>, Oltrogge, E., & Stone, K. (under review). Does a productive number system increase sensitivity to agreement in a second language?
 </ul>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Pañeda, C. & <strong>Lago, S.</strong> (submitted). The missing VP illusion in Spanish: assessing the role of language statistics and working memory.
+Ivanova-Sullivan, T. Sekerina, I., & <strong>Lago, S.</strong> (under review). Bulgarian clitics are sensitive to number attraction.
+</ul>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Bahmanian, N., Bader, M., & <strong>Lago, S.</strong> (under review). Argument structure affects relative clause extraposition: corpus evidence from Persian.
+</ul>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Listanti, A., <strong>Lago, S.</strong>, & Torregrossa (under review). The processing of agreement in non-canonical verb-subject orders in Italian: Does the type of verb matter?
+</ul>
+</div>
+
+<div class="section" id="id1">
+<h2>2024</h2>
+
+<ul class="default simple">
+
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Pañeda, C. & <strong>Lago, S.</strong> (2024). The missing VP illusion in Spanish: assessing the role of language statistics and working memory. <em>Open Mind</em>, 8, 42–66.
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1162/opmi_a_00118" target="_blank" rel="noopener">
+  Publication
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/kp8ns/" target="_blank" rel="noopener">
+  Data
+</a>
 </ul>
 </div>
 
