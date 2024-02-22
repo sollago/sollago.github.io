@@ -49,7 +49,7 @@ Pañeda, C., &amp; <strong>Lago, S.</strong> (2024). The Missing VP Illusion in 
   Data
 </a>
 
-<br><br>
+<br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S.</strong> Stone, K., Oltrogge, E., & Veríssimo, J. (2023). Possessive processing in bilingual comprehension. <em>Language Learning</em>, 73(3), 904–941.
@@ -60,7 +60,7 @@ Pañeda, C., &amp; <strong>Lago, S.</strong> (2024). The Missing VP Illusion in 
   Data
 </a>
 
-<br><br>
+<br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Rinke, E., <strong>Lago, S.</strong>, & Gattei, C. A. (2023). Diachronic change and variation in use: Judgments of clitic doubling in Peninsular vs. Rioplatense Spanish. <em>Isogloss. Open Journal of Romance Linguistics</em>, 9(1), 1–18.

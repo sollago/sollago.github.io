@@ -52,8 +52,6 @@ Pañeda, C., & <strong>Lago, S.</strong> (2024). The Missing VP Illusion in Span
   Data
 </a>
 
-<br><br>
-
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Sá-Leite, A. R., & <strong>Lago, S.</strong> (2024). The role of word form in gender processing during lexical access: A theoretical review and novel proposal in language comprehension. <em>Psychonomic Bulletin & Review</em>.
 <br>
