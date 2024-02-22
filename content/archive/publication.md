@@ -14,7 +14,7 @@ share: false
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Sá Leite, A. R., & <strong>Lago, S.</strong> (in press). The role of word form in gender processing during lexical access: A conceptual review and novel proposal in language comprehension.
+Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (submitted). Memory retrieval and prediction interact in sentence comprehension: an experimental evaluation of a cue-based retrieval model.
 </ul>
 
 <ul class="default simple">
@@ -44,14 +44,27 @@ Listanti, A., <strong>Lago, S.</strong>, & Torregrossa (under review). The proce
 <ul class="default simple">
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Pañeda, C. & <strong>Lago, S.</strong> (2024). The missing VP illusion in Spanish: assessing the role of language statistics and working memory. <em>Open Mind</em>, 8, 42–66.
+Pañeda, C., & <strong>Lago, S.</strong> (2024). The Missing VP Illusion in Spanish: Assessing the Role of Language Statistics and Working Memory. <em>Open Mind</em>, 8, 42–66.
 <br>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1162/opmi_a_00118" target="_blank" rel="noopener">
   Publication
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/kp8ns/" target="_blank" rel="noopener">
   Data
 </a>
+
+<br><br>
+
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Sá-Leite, A. R., & <strong>Lago, S.</strong> (2024). The role of word form in gender processing during lexical access: A theoretical review and novel proposal in language comprehension. <em>Psychonomic Bulletin & Review</em>.
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.3758/s13423-023-02426-8" target="_blank" rel="noopener">
+  Publication
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/4kg6p/" target="_blank" rel="noopener">
+  Data
+</a>
+
 </ul>
+
 </div>
 
 <div class="section" id="id1">
