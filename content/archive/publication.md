@@ -36,6 +36,8 @@ Bahmanian, N., Bader, M., & <strong>Lago, S.</strong> (under review). Argument s
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Listanti, A., <strong>Lago, S.</strong>, & Torregrossa (under review). The processing of agreement in non-canonical verb-subject orders in Italian: Does the type of verb matter?
 </ul>
+<br>
+
 </div>
 
 <div class="section" id="id1">
