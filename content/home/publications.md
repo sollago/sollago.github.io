@@ -59,16 +59,6 @@ Pañeda, C., &amp; <strong>Lago, S.</strong> (2024). The Missing VP Illusion in 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/t6gnv/" target="_blank" rel="noopener">
   Data
 </a>
-<br><br>
-
-<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Rinke, E., <strong>Lago, S.</strong>, & Gattei, C. A. (2023). Diachronic change and variation in use: Judgments of clitic doubling in Peninsular vs. Rioplatense Spanish. <em>Isogloss. Open Journal of Romance Linguistics</em>, 9(1), 1–18.
-<br>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5565/rev/isogloss.293" target="_blank" rel="noopener">
-  Publication
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/hj4d7/" target="_blank" rel="noopener">
-  Data
-</a>
 
 </div>
   
