@@ -38,7 +38,8 @@ design:
 ---
 
 <div class="row">
-  <div class="col-12 col-lg-11">
+
+<div class="col-12 col-lg-11">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Pañeda, C., &amp; <strong>Lago, S.</strong> (2024). The Missing VP Illusion in Spanish: Assessing the Role of Language Statistics and Working Memory. <em>Open Mind</em>, 8, 42–66.
 <br>
@@ -69,11 +70,11 @@ Rinke, E., <strong>Lago, S.</strong>, & Gattei, C. A. (2023). Diachronic change 
   Data
 </a>
 
-  </div>
+</div>
   
-  <div class="btn-links">
+<div class="btn-links">
     
-  </div>
+</div>
   
 </div>
 
