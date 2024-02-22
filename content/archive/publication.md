@@ -16,21 +16,25 @@ share: false
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (submitted). Memory retrieval and prediction interact in sentence comprehension: an experimental evaluation of a cue-based retrieval model.
 </ul>
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S.</strong>, Oltrogge, E., & Stone, K. (under review). Does a productive number system increase sensitivity to agreement in a second language?
 </ul>
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Ivanova-Sullivan, T. Sekerina, I., & <strong>Lago, S.</strong> (under review). Bulgarian clitics are sensitive to number attraction.
 </ul>
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Bahmanian, N., Bader, M., & <strong>Lago, S.</strong> (under review). Argument structure affects relative clause extraposition: corpus evidence from Persian.
 </ul>
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
@@ -51,6 +55,7 @@ Pañeda, C., & <strong>Lago, S.</strong> (2024). The Missing VP Illusion in Span
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/kp8ns/" target="_blank" rel="noopener">
   Data
 </a>
+<br><br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Sá-Leite, A. R., & <strong>Lago, S.</strong> (2024). The role of word form in gender processing during lexical access: A theoretical review and novel proposal in language comprehension. <em>Psychonomic Bulletin & Review</em>.
@@ -146,6 +151,7 @@ Patil, U., &amp; <strong>Lago, S.</strong> (2021). Prediction advantage as retri
   Data
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Stone, K., Veríssimo, J., Schad, D., Oltrogge, E., Vasishth, S., &amp; <strong>Lago, S</strong>. (2021). The interaction of grammatically distinct agreement dependencies in predictive processing. <em>Language, Cognition and Neuroscience</em>, 36(9), 1159–1179.
 <br>
@@ -187,9 +193,13 @@ Data
 </a>
 </ul>
 </div>
+
 <div class="section" id="id2">
 <h2>2020</h2>
+
+
 <ul class="default simple">
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S.</strong>, Stutter Garcia, A., &amp; Mosca, M. (2020). The role of crosslinguistic influence in multilingual processing: Lexicon vs. syntax. <em>Language Learning</em>, 71(S1), 163–192. 
 <br>
@@ -197,6 +207,7 @@ Data
   Publication
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Avetisyan, S., <strong>Lago, S.</strong>, &amp; Vasishth, S. (2020). Does case-marking affect subject-verb agreement attraction in sentence comprehension? <em>Journal of Memory and Language</em>, 112.
 <br>
@@ -207,6 +218,7 @@ Publication
 Data
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Pañeda, C., <strong>Lago, S.</strong>, Vares, E., Veríssimo, J., & Felser, C. (2020). Island effects in
 Spanish comprehension. <em>Glossa: A Journal of General Linguistics</em>, 5(1), 21.
@@ -218,6 +230,7 @@ Publication
 Data
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Gračanin-Yuksek, M., <strong>Lago, S.</strong>, Şafak, D. F., Demir, O., & Kırkıcı, B. (2020). The
 interpretation of syntactically unconstrained anaphors in Turkish heritage speakers.
@@ -229,11 +242,16 @@ Publication
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/mqp7w/" target="_blank" rel="noopener">
 Data
 </a>
+
 </ul>
+
 </div>
+
 <div class="section" id="id3">
 <h2>2019</h2>
+
 <ul class="default simple">
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S.</strong>, Namyst, A., Jäger, L., & Lau, E. (2019). Antecedent access mechanisms in
 pronoun processing: evidence from the N400. <em>Language, Cognition &amp; Neuroscience </em>,
@@ -246,6 +264,7 @@ Publication
 Data
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S. </strong>, Stutter Garcia, A., & Felser, C. (2019). The role of native and non-native
 grammars in the comprehension of possessive pronouns. <em>Second Language Research</em>,
@@ -258,6 +277,7 @@ Publication
 Data
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S. </strong>, Gračanin-Yuksek, M., Şafak, D. F., Demir, O., Kırkıcı, B. & Felser, C. (2019). Straight from the horse's mouth: agreement attraction effects with Turkish possessors.
 <em>Linguistic Approaches to Bilingualism</em>, 9(3), 398–426.
@@ -269,6 +289,7 @@ Publication
 Data
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Arslan, S., <strong>Lago, S.</strong>, Yanılmaz, A., Drury, J.E., &amp; Felser, C. (2019). The processing of negative polarity items in Turkish-German bilinguals. In P. Guijarro-Fuentes &amp; C. Suárez-Gómez (eds.) <em>Proceedings of GALA 13: Language Acquisition and Development</em> (pp. 117–133). Cambridge Scholars Publishing.
 <br>
@@ -278,11 +299,16 @@ Preprint
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/6sf2r/" target="_blank" rel="noopener">
 Data
 </a>
+
 </ul>
+
 </div>
+
 <div class="section" id="id4">
 <h2>2018</h2>
+
 <ul class="default simple">
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S.</strong>, & Felser, C. (2018). Agreement attraction in native and non-native speakers
 of German. <em>Applied Psycholinguistics</em>, 39(3), 619–647.
@@ -293,11 +319,16 @@ Publication
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/s5zty/" target="_blank" rel="noopener">
 Data
 </a>
+
 </ul>
+
 </div>
+
 <div class="section" id="id5">
 <h2>2017</h2>
+
 <ul class="default simple">
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Gračanin-Yuksek, M., <strong>Lago, S.</strong>, Şafak, D. F., Demir, O., & Kırkıcı, B. (2017). The
 interaction of contextual and syntactic information in the processing of Turkish anaphors.
@@ -310,6 +341,7 @@ Publication
 Data
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S.</strong>, Sloggett, S., Schlueter, Z., Chow, W.Y., Williams, A., Lau, E., & Phillips, C.
 (2017). Coreference and antecedent representation across languages. <em>Journal of
@@ -321,11 +353,16 @@ Publication
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/6qtva/" target="_blank" rel="noopener">
 Preprint
 </a>
+
 </ul>
+
 </div>
+
 <div class="section" id="id6">
 <h2>2016</h2>
+
 <ul class="default simple">
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Jacob, G., <strong>Lago, S.</strong>, & Patterson, C. (2016). L2 processing and memory retrieval: Some
 empirical and conceptual challenges. Commentary on Ian Cunnings’ keynote article
@@ -336,6 +373,7 @@ Language and Cognition</em>, 20(4), 691–693.
 Publication
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Marijuan, S., <strong>Lago, S.</strong>, & Sanz C. (2016). Can English-Spanish emerging bilinguals use
 agreement morphology to overcome word order bias? In A. E. Tyler, L. Ortega, & M. Uno
@@ -345,8 +383,11 @@ Washington, DC: Georgetown University Press.
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/archive/Marijuan_Lago_Sanz_2016.pdf" target="_blank" rel="noopener">
 Publication
 </a>
+
 </ul>
+
 </div>
+
 <div class="section" id="and-prior">
 <h2>2015 and prior</h2>
 <ul class="default simple">
@@ -360,6 +401,7 @@ Publication
 Data
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S.</strong>, Scharinger, M., Kronrod, Y., &amp; Idsardi, W. (2015). Categorical effects in fricative perception are reflected in cortical source information. <em>Brain and Language</em>, 143, 52–58.
 <br>
@@ -367,6 +409,7 @@ Data
 Publication
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Parker, D., <strong>Lago, S.</strong>, &amp; Phillips, C. (2015). Interference in the processing of adjunct control. <em>Frontiers in Psychology</em>, 6:1346. 
 <br>
@@ -374,6 +417,7 @@ Parker, D., <strong>Lago, S.</strong>, &amp; Phillips, C. (2015). Interference i
 Publication
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Chow, W.Y., <strong>Lago, S.</strong>, Barrios, S., Parker, D., Morini, G., &amp; Lau, E. (2014). Additive Effects of Repetition and Predictability during Comprehension: Evidence from Event-Related Potentials. <em>PLoS ONE</em>, 9(6): e99199.
 <br>
@@ -381,6 +425,7 @@ Chow, W.Y., <strong>Lago, S.</strong>, Barrios, S., Parker, D., Morini, G., &amp
 Publication
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Muñoz Perez, C., & <strong>Lago, S.</strong> (2012). An asymmetry in the production of relative clauses:
 a study in Argentinian Spanish.<em> Revista Virtual de Estudos da Linguagem </em>, 10(18), 64–
@@ -389,5 +434,7 @@ a study in Argentinian Spanish.<em> Revista Virtual de Estudos da Linguagem </em
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www.revel.inf.br/files/16cb3716686645c4465e3db2244ad03a.pdf" target="_blank" rel="noopener">
 Publication
 </a>
+
 </ul>
+
 </div>
