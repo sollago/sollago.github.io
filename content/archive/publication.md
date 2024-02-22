@@ -403,7 +403,9 @@ Publication
 
 <div class="section" id="and-prior">
 <h2>2015 and prior</h2>
+
 <ul class="default simple">
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S.</strong>, Shalom, D., Sigman, M., Lau, E., &amp; Phillips, C. (2015). Agreement attraction in Spanish comprehension. <em>Journal of Memory and Language</em>, 82, 133–149.
 <br>
