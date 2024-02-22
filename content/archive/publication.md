@@ -16,25 +16,21 @@ share: false
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (submitted). Memory retrieval and prediction interact in sentence comprehension: an experimental evaluation of a cue-based retrieval model.
 </ul>
-<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S.</strong>, Oltrogge, E., & Stone, K. (under review). Does a productive number system increase sensitivity to agreement in a second language?
 </ul>
-<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Ivanova-Sullivan, T. Sekerina, I., & <strong>Lago, S.</strong> (under review). Bulgarian clitics are sensitive to number attraction.
 </ul>
-<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Bahmanian, N., Bader, M., & <strong>Lago, S.</strong> (under review). Argument structure affects relative clause extraposition: corpus evidence from Persian.
 </ul>
-<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
@@ -65,6 +61,7 @@ Sá-Leite, A. R., & <strong>Lago, S.</strong> (2024). The role of word form in g
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/4kg6p/" target="_blank" rel="noopener">
   Data
 </a>
+<br><br>
 
 </ul>
 
@@ -93,7 +90,10 @@ Rinke, E., <strong>Lago, S.</strong>, & Gattei, C. A. (2023). Diachronic change 
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/hj4d7/" target="_blank" rel="noopener">
   Data
 </a>
+<br><br>
+
 </ul>
+
 </div>
 
 <div class="section" id="id1">
@@ -113,10 +113,13 @@ Patil, U., &amp; <strong>Lago, S.</strong> (2022). Computational cognitive model
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/p28k6/" target="_blank" rel="noopener">
   Data
 </a>
-</div>
-<div class="section" id="id1">
+<br><br>
 
+</div>
+
+<div class="section" id="id1">
 <h2>2021</h2>
+
 <ul class="default simple">
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
@@ -162,6 +165,7 @@ Stone, K., Veríssimo, J., Schad, D., Oltrogge, E., Vasishth, S., &amp; <strong>
   Data
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Mertzen, D., <strong>Lago, S.</strong>, &amp; Vasishth, S. (2021). The benefits of preregistration for hypothesis-driven bilingualism research. <em>Bilingualism: Language and Cognition</em>, 24(5), 807–812.
 <br>
@@ -172,6 +176,7 @@ Mertzen, D., <strong>Lago, S.</strong>, &amp; Vasishth, S. (2021). The benefits 
   Data
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 <strong>Lago, S.</strong> (2021). Some challenges of relating wholesale transfer approaches to L3 linguistic behavior. <em>Linguistic Approaches to Bilingualism,</em> 11(1), 75–78.
 <br>
@@ -182,6 +187,7 @@ Mertzen, D., <strong>Lago, S.</strong>, &amp; Vasishth, S. (2021). The benefits 
   Preprint
 </a>
 <br><br>
+
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Stone, K., <strong>Lago, S.</strong>, &amp; Schad, D. (2021). Divergence point analyses of visual world data: applications to bilingual research. <em>Bilingualism: Language and Cognition</em>, 24(5), 833–841. 
 <br>
@@ -191,12 +197,14 @@ Publication
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/exbmk/" target="_blank" rel="noopener">
 Data
 </a>
+<br><br>
+
 </ul>
+
 </div>
 
 <div class="section" id="id2">
 <h2>2020</h2>
-
 
 <ul class="default simple">
 
@@ -242,6 +250,7 @@ Publication
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/mqp7w/" target="_blank" rel="noopener">
 Data
 </a>
+<br><br>
 
 </ul>
 
@@ -299,6 +308,7 @@ Preprint
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/6sf2r/" target="_blank" rel="noopener">
 Data
 </a>
+<br><br>
 
 </ul>
 
@@ -319,6 +329,7 @@ Publication
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/s5zty/" target="_blank" rel="noopener">
 Data
 </a>
+<br><br>
 
 </ul>
 
@@ -353,6 +364,7 @@ Publication
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/6qtva/" target="_blank" rel="noopener">
 Preprint
 </a>
+<br><br>
 
 </ul>
 
@@ -383,6 +395,7 @@ Washington, DC: Georgetown University Press.
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/archive/Marijuan_Lago_Sanz_2016.pdf" target="_blank" rel="noopener">
 Publication
 </a>
+<br><br>
 
 </ul>
 
@@ -434,6 +447,7 @@ a study in Argentinian Spanish.<em> Revista Virtual de Estudos da Linguagem </em
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www.revel.inf.br/files/16cb3716686645c4465e3db2244ad03a.pdf" target="_blank" rel="noopener">
 Publication
 </a>
+<br><br>
 
 </ul>
 
