@@ -14,7 +14,17 @@ share: false
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (submitted). Memory retrieval and prediction interact in sentence comprehension: an experimental evaluation of a cue-based retrieval model.
+<strong>Lago, S.</strong>, Schulz, P., Rinke, E., Oltrogge, E., Dudschig, C., & Kaup, B. (in preparation). Insensitivity to truth-value in negated sentences: does linear distance matter? <em>Proceedings of the Experiments in Linguistic Meaning conference (ELM3)</em>.
+</ul>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Kandel, M., & Pañeda, C., Bahmanian, N., Martínez-Bruera, M., Phillips, C., & <strong>Lago, S.</strong> (submitted). Number and grammatical gender attraction in Spanish pronouns: Evidence for a syntactic route to their features.
+</ul>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (under review). Memory retrieval and prediction interact in sentence comprehension: an experimental evaluation of a cue-based retrieval model.
 </ul>
 
 <ul class="default simple">
@@ -24,18 +34,9 @@ Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (submitted)
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Ivanova-Sullivan, T. Sekerina, I., & <strong>Lago, S.</strong> (under review). Bulgarian clitics are sensitive to number attraction.
+Listanti, A., <strong>Lago, S.</strong>, & Torregrossa (under review). The processing of agreement with Italian postverbal subjects.
 </ul>
 
-<ul class="default simple">
-<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Bahmanian, N., Bader, M., & <strong>Lago, S.</strong> (under review). Argument structure affects relative clause extraposition: corpus evidence from Persian.
-</ul>
-
-<ul class="default simple">
-<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Listanti, A., <strong>Lago, S.</strong>, & Torregrossa (under review). The processing of agreement in non-canonical verb-subject orders in Italian: Does the type of verb matter?
-</ul>
 <br>
 
 </div>
@@ -44,6 +45,26 @@ Listanti, A., <strong>Lago, S.</strong>, & Torregrossa (under review). The proce
 <h2>2024</h2>
 
 <ul class="default simple">
+
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Ivanova-Sullivan, T. Sekerina, I., & <strong>Lago, S.</strong> (2024). Bulgarian clitics are sensitive to number attraction. <em>Glossa Psycholinguistics</em>, 3(1).
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5070/G60116565" target="_blank" rel="noopener">
+  Publication
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/n5fv7/" target="_blank" rel="noopener">
+  Data
+</a>
+<br><br>
+
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Bahmanian, N., Bader, M., & <strong>Lago, S.</strong> (2024). Argument structure affects relative clause extraposition: corpus evidence from Persian. <em>Glossa Psycholinguistics</em>, 3(1). 
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://doi.org/10.5070/G60113849" target="_blank" rel="noopener">
+  Publication
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/6fmtz" target="_blank" rel="noopener">
+  Data
+</a>
+<br><br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Pañeda, C., & <strong>Lago, S.</strong> (2024). The Missing VP Illusion in Spanish: Assessing the Role of Language Statistics and Working Memory. <em>Open Mind</em>, 8, 42–66.
