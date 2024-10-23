@@ -6,7 +6,7 @@ title: Sol Lago
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -62,4 +62,4 @@ email: ""
 highlight_name: false
 ---
 
-I study how sentences are understood by first and second language speakers. What kind of mental computations are necessary? And do they vary across different languages or between different types of language learners? Together with my colleagues at the <a target="blank" href=https://www.uni-frankfurt.de/102371493/Romance_Lab>Romance Lab</a>, we focus on Romance languages like Spanish, French, Portuguese and Italian. For example, we study how adult German speakers comprehend Romance languages in real-time, and also how bilingual children acquire German together with a Romance language. To address these questions, we conduct comprehension and production experiments using behavioral, eye-tracking and neurophysiological methods.
+I study sentence comprehension in first and second language speakers. What kind of mental computations are necessary? And do they vary across different languages or between different types of language learners? Together with my colleagues at the <a target="blank" href=https://www.uni-frankfurt.de/102371493/Romance_Lab>Romance Lab</a>, we focus on Romance languages like Spanish, French, Portuguese and Italian. For example, we study how adult German speakers read sentences in Romance languages, and also how bilingual children acquire German together with a Romance language. To address these questions, we conduct comprehension and production experiments using behavioral, eye-tracking and neurophysiological methods.
