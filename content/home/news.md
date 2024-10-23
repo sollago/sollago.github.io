@@ -21,7 +21,7 @@ design:
 ---
 <ul class="default">
   <li>
-      New interview (in German): <a target="blank" href=https://aktuelles.uni-frankfurt.de/unireport/goethe-deine-forscher-sol-lago-romanistin>[here]</a>
+      I got promoted to Associate Professor! Related interview (in German) <a target="blank" href=https://aktuelles.uni-frankfurt.de/unireport/goethe-deine-forscher-sol-lago-romanistin>[here]</a>
     </li>
     <br>
     <li>
@@ -29,7 +29,7 @@ design:
     </li>
     <br>
     <li>
-      In 2023 we continued looking at how possessive pronouns are processed across languages. The German Research Council extended our AGREE project for 3 years. The research is being conducted in collaboration with <a target="blank" href=https://vasishth.github.io/>Shravan Vasishth</a> and <a target="blank" href=https://www.jverissimo.net/>João Veríssimo</a> <a target="blank" href=https://gepris.dfg.de/gepris/projekt/317308350?language=en>[read more]</a>
+      In 2023 we continued looking at how possessive pronouns are processed across languages. The German Research Council extended our AGREE project for 3 more years. The research is being conducted in collaboration with <a target="blank" href=https://vasishth.github.io/>Shravan Vasishth</a> and <a target="blank" href=https://www.jverissimo.net/>João Veríssimo</a> <a target="blank" href=https://gepris.dfg.de/gepris/projekt/317308350?language=en>[read more]</a>
     </li>
   </ul>
 </section>
