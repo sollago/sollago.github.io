@@ -21,7 +21,7 @@ design:
 ---
 <ul class="default">
   <li>
-      In October 2424 I got promoted to Associate Professor! Related interview (in German) <a target="blank" href=https://aktuelles.uni-frankfurt.de/unireport/goethe-deine-forscher-sol-lago-romanistin>[here]</a>
+      In October 2024 I got promoted to Associate Professor! Related interview (in German) <a target="blank" href=https://aktuelles.uni-frankfurt.de/unireport/goethe-deine-forscher-sol-lago-romanistin>[here]</a>
     </li>
     <br>
     <li>
