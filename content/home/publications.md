@@ -73,8 +73,6 @@ Kandel, M., Pañeda, C., Bahmanian, N., Bruera, M. M., Phillips, C., & <strong>L
   Data
 </a>
 
-<br>
-
 </div>
   
 <div class="btn-links">
