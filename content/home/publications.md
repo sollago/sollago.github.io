@@ -40,25 +40,40 @@ design:
 <div class="row">
 
 <div class="col-12 col-lg-11">
-<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Pañeda, C., &amp; <strong>Lago, S.</strong> (2024). The Missing VP Illusion in Spanish: Assessing the Role of Language Statistics and Working Memory. <em>Open Mind</em>, 8, 42–66.
-<br>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1162/opmi_a_00118" target="_blank" rel="noopener">
-  Publication
-</a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/kp8ns/" target="_blank" rel="noopener">
-  Data
-</a>
-<br><br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-<strong>Lago, S.</strong> Stone, K., Oltrogge, E., & Veríssimo, J. (2023). Possessive processing in bilingual comprehension. <em>Language Learning</em>, 73(3), 904–941.
+<strong>Lago, S.</strong>, Oltrogge, E., & Stone, K. (2025). Does productive agreement morphology increase sensitivity to agreement in a second language? <em>Glossa Psycholinguistics</em>, 4(1), 1–32.
 <br>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/lang.12556" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5070/G6011.25340" target="_blank" rel="noopener">
   Publication
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/t6gnv/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.17605/OSF.IO/VW6UF" target="_blank" rel="noopener">
   Data
 </a>
+
+<br>
+
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+<strong>Lago, S.</strong>, Schulz, P., Rinke, E., Oltrogge, E., Dudschig, C., & Kaup, B. (2025). Insensitivity to truth-value in negated sentences: Does linear distance matter? <em>Experiments in Linguistic Meaning</em>, 3, 214–223.
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5797" target="_blank" rel="noopener">
+  Publication
+</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.17605/OSF.IO/X9UE3" target="_blank" rel="noopener">
+  Data
+</a>
+
+<br>
+
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Kandel, M., Pañeda, C., Bahmanian, N., Bruera, M. M., Phillips, C., & <strong>Lago, S.</strong> (2025). Number and grammatical gender attraction in Spanish pronouns: Evidence for a syntactic route to their features <em>Journal of Cognition</em>, 8(1), 1–20.
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5334/joc.416" target="_blank" rel="noopener">
+  Publication
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.17605/OSF.IO/APK4W" target="_blank" rel="noopener">
+  Data
+</a>
+
+<br><br>
 
 </div>
   
