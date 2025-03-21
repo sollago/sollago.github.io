@@ -13,13 +13,25 @@ share: false
 <h2>In progress</h2>
 
 <ul class="default simple">
+Martinez-Bruera, M., Weingärtner, D., Listanti, A., Gattei, C., Alvarez, C. J., Barber, H., Rinke, E., & <strong>Lago, S.</strong> (submitted). Heritage Grammars and Language Change: The Case of Clitic Doubling in Spanish.
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (under review). Memory retrieval and prediction interact in sentence comprehension: an experimental evaluation of a cue-based retrieval model.
+
+</ul>
+
+<ul class="default simple">
+Rinke, E., Weingärtner, D., Flores, C., Martinez-Bruera, M., Listanti, A., Novo Gomes, J., & <strong>Lago, S.</strong> (submitted). Are heritage speakers one step ahead in ongoing processes of diachronic change?
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
 </ul>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Listanti, A., <strong>Lago, S.</strong>, & Torregrossa (under review). The processing of agreement with Italian postverbal subjects.
+</ul>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (under review). Memory retrieval and prediction interact in sentence comprehension: an experimental evaluation of a cue-based retrieval model.
 </ul>
 
 <br>

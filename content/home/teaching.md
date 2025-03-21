@@ -149,7 +149,20 @@ Bachelor seminar at University of Potsdam</p>
     </div>
   </div>
 </div>
-      
+
+<div class="project-card project-item isotope-item ">
+  <div class="card">
+    
+  <div class="card-text">
+      <h4 style = "font-size:16px">Introduction to statistics with R</h4>
+      <div class="card-desription">
+        <p style = "font-size:14px">Master's seminar at Goethe University Frankfurt</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
   </div>
 
   </div>
