@@ -41,12 +41,11 @@ design:
 
 <div class="col-12 col-lg-11">
 
-<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-<strong>Lago, S.</strong>, Oltrogge, E., & Stone, K. (2025). Does productive agreement morphology increase sensitivity to agreement in a second language? <em>Glossa Psycholinguistics</em>, 4(1), 1–32.
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i> Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (2025). Memory retrieval and prediction interact in sentence comprehension: an experimental evaluation of a cue-based retrieval model. <em>Journal of Memory and Language</em>, 144, 1–20.
 <br>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5070/G6011.25340" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.jml.2025.104651" target="_blank" rel="noopener">
   Publication
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.17605/OSF.IO/VW6UF" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.17605/OSF.IO/PDX5Q" target="_blank" rel="noopener">
   Data
 </a>
 

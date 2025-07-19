@@ -6,38 +6,83 @@ type: posts
 date: "2025-01-30"
 # summary: This page contains an archive of all posts.
 share: false
-
-
 ---
+
 <div class="section" id="articles-in-progress">
 <h2>In progress</h2>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Martinez-Bruera, M., Weingärtner, D., Listanti, A., Gattei, C., Alvarez, C. J., Barber, H., Rinke, E., & <strong>Lago, S.</strong> (submitted). Heritage Grammars and Language Change: The Case of Clitic Doubling in Spanish.
-</ul>
-
-<ul class="default simple">
-<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Rinke, E., Weingärtner, D., Flores, C., Martinez-Bruera, M., Listanti, A., Novo Gomes, J., & <strong>Lago, S.</strong> (submitted). Are heritage speakers one step ahead in ongoing processes of diachronic change?
-</ul>
-
-<ul class="default simple">
-<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Listanti, A., <strong>Lago, S.</strong>, & Torregrossa (under review). The processing of agreement with Italian postverbal subjects.
-</ul>
-
-<ul class="default simple">
-<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (under review). Memory retrieval and prediction interact in sentence comprehension: an experimental evaluation of a cue-based retrieval model.
-</ul>
-
+Veríssimo, J., & <strong>Lago, S.</strong> (under review). A novel method for detecting the onset of experimental effects in visual world eye-tracking.
 <br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/preprints/psyarxiv/yk4xb_v3" target="_blank" rel="noopener">
+  Preprint
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.17605/OSF.IO/9ETHQ" target="_blank" rel="noopener">
+  Data
+</a>
+</ul>
+
+<br><br>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Patil, U., Calvillo, J., <strong>Lago, S.</strong> , & Schumann, A.K. (to appear). Quantifying word complexity for Leichte Sprache: A computational metric and its psycholinguistic validation. <em>MT Summit 2025</em>.
+</ul>
+
+<br><br>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Martinez-Bruera, M., Weingärtner, D., Listanti, A., Gattei, C., Alvarez, C. J., Barber, H., Rinke, E., & <strong>Lago, S.</strong> (under review). Heritage Grammars and Language Change: The Case of Clitic Doubling in Spanish.
+</ul>
+
+<br><br>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Rinke, E., Weingärtner, D., Flores, C., Martinez-Bruera, M., Listanti, A., Novo Gomes, J., & <strong>Lago, S.</strong> (under review). Are heritage speakers one step ahead in ongoing processes of diachronic change?
+</ul>
+
+<br><br>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Listanti, A., Torregrossa, & <strong>Lago, S.</strong> (submitted). L1 and L2 sensitivity to unaccusativity and information structure constraints on Italian word order.
+</ul>
+
+<br><br>
 
 </div>
 
 <div class="section" id="2025">
 <h2>2025</h2>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Listanti, A., <strong>Lago, S.</strong>, & Torregrossa, J. (2025). The processing of agreement with postverbal subjects in Italian. <em>Glossa Psycholinguistics</em>, 4(1), 1–40.
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5070/G6011.46996" target="_blank" rel="noopener">
+  Publication
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.17605/OSF.IO/CEY5W" target="_blank" rel="noopener">
+  Data
+</a>
+</ul>
+
+<br><br>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (2025). Memory retrieval and prediction interact in sentence comprehension: an experimental evaluation of a cue-based retrieval model. <em>Journal of Memory and Language</em>, 144, 1–20.
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.jml.2025.104651" target="_blank" rel="noopener">
+  Publication
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.17605/OSF.IO/PDX5Q" target="_blank" rel="noopener">
+  Data
+</a>
+
+</ul>
+
+<br><br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
@@ -50,7 +95,7 @@ Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (under revi
 </a>
 </ul>
 
-<br>
+<br><br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
@@ -64,7 +109,7 @@ Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (under revi
 </a>
 </ul>
 
-<br>
+<br><br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
@@ -94,6 +139,7 @@ Ivanova-Sullivan, T. Sekerina, I., & <strong>Lago, S.</strong> (2024). Bulgarian
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/n5fv7/" target="_blank" rel="noopener">
   Data
 </a>
+
 <br><br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
@@ -114,6 +160,7 @@ Pañeda, C., & <strong>Lago, S.</strong> (2024). The Missing VP Illusion in Span
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/kp8ns/" target="_blank" rel="noopener">
   Data
 </a>
+
 <br><br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
