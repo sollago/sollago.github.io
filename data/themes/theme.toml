@@ -5,12 +5,12 @@ name = "theme"
 light = true
 
 # Primary
-primary = "#00618f"
+primary = "#004a6f"
 
 # Menu
-menu_primary = "#00618f"
+menu_primary = "#004a6f"
 menu_text = "#fff"
-menu_text_active = "#009cae"
+menu_text_active = "#007375"
 menu_title = "#fff"
 
 # Home sections
@@ -18,5 +18,5 @@ home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "#f2f4f6"
 
 [dark]
-  link = "#00618f"
-  link_hover = "#00618f"
+  link = "#c6e2f7"
+  link_hover = "#d6eceb"
