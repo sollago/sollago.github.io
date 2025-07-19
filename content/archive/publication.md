@@ -22,35 +22,35 @@ Veríssimo, J., & <strong>Lago, S.</strong> (under review). A novel method for d
 </a>
 </ul>
 
-<br><br>
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Patil, U., Calvillo, J., <strong>Lago, S.</strong> , & Schumann, A.K. (to appear). Quantifying word complexity for Leichte Sprache: A computational metric and its psycholinguistic validation. <em>MT Summit 2025</em>.
 </ul>
 
-<br><br>
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Martinez-Bruera, M., Weingärtner, D., Listanti, A., Gattei, C., Alvarez, C. J., Barber, H., Rinke, E., & <strong>Lago, S.</strong> (under review). Heritage Grammars and Language Change: The Case of Clitic Doubling in Spanish.
 </ul>
 
-<br><br>
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Rinke, E., Weingärtner, D., Flores, C., Martinez-Bruera, M., Listanti, A., Novo Gomes, J., & <strong>Lago, S.</strong> (under review). Are heritage speakers one step ahead in ongoing processes of diachronic change?
 </ul>
 
-<br><br>
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Listanti, A., Torregrossa, & <strong>Lago, S.</strong> (submitted). L1 and L2 sensitivity to unaccusativity and information structure constraints on Italian word order.
 </ul>
 
-<br><br>
+<br>
 
 </div>
 
@@ -68,7 +68,7 @@ Listanti, A., <strong>Lago, S.</strong>, & Torregrossa, J. (2025). The processin
 </a>
 </ul>
 
-<br><br>
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
@@ -82,7 +82,7 @@ Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (2025). Mem
 
 </ul>
 
-<br><br>
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
@@ -95,7 +95,7 @@ Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (2025). Mem
 </a>
 </ul>
 
-<br><br>
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
@@ -109,7 +109,7 @@ Oltrogge, E., Veríssimo, J., Patil, U., & <strong>Lago, S.</strong> (2025). Mem
 </a>
 </ul>
 
-<br><br>
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
@@ -140,7 +140,7 @@ Ivanova-Sullivan, T. Sekerina, I., & <strong>Lago, S.</strong> (2024). Bulgarian
   Data
 </a>
 
-<br><br>
+<br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Bahmanian, N., Bader, M., & <strong>Lago, S.</strong> (2024). Argument structure affects relative clause extraposition: corpus evidence from Persian. <em>Glossa Psycholinguistics</em>, 3(1), 1–31. 
@@ -150,7 +150,7 @@ Bahmanian, N., Bader, M., & <strong>Lago, S.</strong> (2024). Argument structure
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/6fmtz" target="_blank" rel="noopener">
   Data
 </a>
-<br><br>
+<br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Pañeda, C., & <strong>Lago, S.</strong> (2024). The Missing VP Illusion in Spanish: Assessing the Role of Language Statistics and Working Memory. <em>Open Mind</em>, 8, 42–66.
@@ -161,7 +161,7 @@ Pañeda, C., & <strong>Lago, S.</strong> (2024). The Missing VP Illusion in Span
   Data
 </a>
 
-<br><br>
+<br>
 
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Sá-Leite, A. R., & <strong>Lago, S.</strong> (2024). The role of word form in gender processing during lexical access: A theoretical review and novel proposal in language comprehension. <em>Psychonomic Bulletin & Review</em>, 31(5), 1934–1953.
@@ -171,7 +171,8 @@ Sá-Leite, A. R., & <strong>Lago, S.</strong> (2024). The role of word form in g
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/4kg6p/" target="_blank" rel="noopener">
   Data
 </a>
-<br><br>
+
+<br>
 
 </ul>
 
