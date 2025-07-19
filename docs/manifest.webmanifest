@@ -2,8 +2,8 @@
   "name": "Sol Lago",
   "short_name": "Sol Lago",
   "lang": "en-us",
-  "theme_color": "#CC5500",
-  "background_color": "#CC5500",
+  "theme_color": "#00618f",
+  "background_color": "#00618f",
   "icons": [{
     "src": "/media/icon_hu00cb571a96e7b38f431cf9ce4bf83aff_48506_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
