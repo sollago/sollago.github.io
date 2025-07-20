@@ -27,3 +27,22 @@
   background-color: #f8f6f5;
 }
 
+.section.even {
+  background-color: #f8f6f5;
+
+  /* make background stretch full width */
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  padding-left: 2rem;  /* adjust as needed */
+  padding-right: 2rem; /* adjust as needed */
+  box-sizing: border-box;
+}
+
+.section.odd {
+  background-color: #ffffff;
+  padding-left: 2rem;  /* same as even to align text */
+  padding-right: 2rem;
+}
