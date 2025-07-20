@@ -4,7 +4,7 @@ layout: archive
 # hidden: true
 type: posts
 date: "2025-07-19"
-# summary: This page contains an archive of all posts.
+# summary: This page contains all publications
 share: false
 ---
 

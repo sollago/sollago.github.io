@@ -1,8 +1,3 @@
-
-body {
-  border: 5px solid green;
-}
-
 .menu-link{
     &:hover{
         color: #c6e2f7 ;
@@ -23,12 +18,12 @@ body {
         display: block;
     }
 
-/* Alternate background colors for publication archive sections */
-body.page-publication-archive section.section:nth-of-type(odd) {
+/* Alternate background colors for publications section */
+.section:nth-of-type(odd) {
   background-color: #ffffff;
 }
 
-body.page-publication-archive section.section:nth-of-type(even) {
+.section:nth-of-type(even) {
   background-color: #f8f6f5;
 }
 
