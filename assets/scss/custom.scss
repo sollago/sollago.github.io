@@ -17,3 +17,13 @@
         margin-bottom: 18px;
         display: block;
     }
+
+/* Alternate background colors for publication archive sections */
+body.page-publication-archive section.section:nth-of-type(odd) {
+  background-color: #ffffff;
+}
+
+body.page-publication-archive section.section:nth-of-type(even) {
+  background-color: #f8f6f5;
+}
+

@@ -128,3 +128,7 @@ cms:
 icon:
   pack:
     ai: true
+
+# Apply alternating section backgrounds on publication archive, like homepage
+custom_css:
+  - css/custom.css
