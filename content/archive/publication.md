@@ -26,19 +26,6 @@ Veríssimo, J., & <strong>Lago, S.</strong> (under review). A novel method for d
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Patil, U., Calvillo, J., <strong>Lago, S.</strong> , & Schumann, A. K. (to appear). Quantifying word complexity for Leichte Sprache: A computational metric and its psycholinguistic validation. <em>MT Summit 2025</em>.
-<br>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://drive.google.com/file/d/12oriHMaI-NGBnJRTGX1oTH_2wf95_XTB/view" target="_blank" rel="noopener">
-  Preprint
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/text2knowledge/word-complexity-leichtesprache" target="_blank" rel="noopener">
-  Data
-</a>
-</ul>
-
-<br>
-
-<ul class="default simple">
-<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Martinez-Bruera, M., Weingärtner, D., Listanti, A., Gattei, C., Alvarez, C. J., Barber, H., Rinke, E., & <strong>Lago, S.</strong> (under review). Heritage Grammars and Language Change: The Case of Clitic Doubling in Spanish.
 <br>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/preprints/psyarxiv/trkwh_v2" target="_blank" rel="noopener">
@@ -68,6 +55,21 @@ Listanti, A., Torregrossa, & <strong>Lago, S.</strong> (submitted). L1 and L2 se
 
 <div class="section" id="2025">
 <h2>2025</h2>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Patil, U., Calvillo, J., <strong>Lago, S.</strong> , & Schumann, A. K. (2025). Quantifying word complexity for Leichte Sprache: A computational metric and its psycholinguistic validation. In <em> Proceedings of the 1st Workshop on Artificial Intelligence and Easy and Plain Language in Institutional Contexts (AI & EL/PL)</em>, pages 94–107, Geneva, Switzerland. European Association for Machine Translation. 
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://aclanthology.org/2025.aielpl-1.9/" target="_blank" rel="noopener">
+  Publication
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://drive.google.com/file/d/12oriHMaI-NGBnJRTGX1oTH_2wf95_XTB/view" target="_blank" rel="noopener">
+  Preprint
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/text2knowledge/word-complexity-leichtesprache" target="_blank" rel="noopener">
+  Data
+</a>
+</ul>
+
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
