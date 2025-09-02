@@ -35,7 +35,7 @@
     <item>
       <title>Publications</title>
       <link>https://sollago.github.io/archive/publication/</link>
-      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://sollago.github.io/archive/publication/</guid>
       <description>&lt;div class=&#34;section&#34; id=&#34;articles-in-progress&#34;&gt;
 &lt;h2&gt;In progress&lt;/h2&gt;
@@ -46,17 +46,6 @@ Veríssimo, J., &amp; &lt;strong&gt;Lago, S.&lt;/strong&gt; (under review). A no
 &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://osf.io/preprints/psyarxiv/yk4xb_v3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Preprint
 &lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://doi.org/10.17605/OSF.IO/9ETHQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  Data
-&lt;/a&gt;
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;ul class=&#34;default simple&#34;&gt;
-&lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-Patil, U., Calvillo, J., &lt;strong&gt;Lago, S.&lt;/strong&gt; , &amp; Schumann, A. K. (to appear). Quantifying word complexity for Leichte Sprache: A computational metric and its psycholinguistic validation. &lt;em&gt;MT Summit 2025&lt;/em&gt;.
-&lt;br&gt;
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://drive.google.com/file/d/12oriHMaI-NGBnJRTGX1oTH_2wf95_XTB/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-  Preprint
-&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/text2knowledge/word-complexity-leichtesprache&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
   Data
 &lt;/a&gt;
 &lt;/ul&gt;
@@ -85,6 +74,19 @@ Listanti, A., Torregrossa, &amp; &lt;strong&gt;Lago, S.&lt;/strong&gt; (submitte
 &lt;/div&gt;
 &lt;div class=&#34;section&#34; id=&#34;2025&#34;&gt;
 &lt;h2&gt;2025&lt;/h2&gt;
+&lt;ul class=&#34;default simple&#34;&gt;
+&lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+Patil, U., Calvillo, J., &lt;strong&gt;Lago, S.&lt;/strong&gt; , &amp; Schumann, A. K. (2025). Quantifying word complexity for Leichte Sprache: A computational metric and its psycholinguistic validation. In &lt;em&gt; Proceedings of the 1st Workshop on Artificial Intelligence and Easy and Plain Language in Institutional Contexts (AI &amp; EL/PL)&lt;/em&gt;, pages 94–107, Geneva, Switzerland. European Association for Machine Translation. 
+&lt;br&gt;
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://aclanthology.org/2025.aielpl-1.9/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Publication
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://drive.google.com/file/d/12oriHMaI-NGBnJRTGX1oTH_2wf95_XTB/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Preprint
+&lt;a class=&#34;btn btn-outline-primary my-1 mr-1 btn-sm&#34; href=&#34;https://github.com/text2knowledge/word-complexity-leichtesprache&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+  Data
+&lt;/a&gt;
+&lt;/ul&gt;
+&lt;br&gt;
 &lt;ul class=&#34;default simple&#34;&gt;
 &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
 Listanti, A., &lt;strong&gt;Lago, S.&lt;/strong&gt;, &amp; Torregrossa, J. (2025). The processing of agreement with postverbal subjects in Italian. &lt;em&gt;Glossa Psycholinguistics&lt;/em&gt;, 4(1), 1–40.
