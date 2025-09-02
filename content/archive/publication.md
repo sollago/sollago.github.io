@@ -3,7 +3,7 @@ title: "Publications"
 layout: archive
 # hidden: true
 type: posts
-date: "2025-08-02"
+date: "2025-09-02"
 # summary: This page contains all publications
 share: false
 ---
