@@ -28,7 +28,7 @@ Veríssimo, J., & <strong>Lago, S.</strong> (under review). A novel method for d
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Martinez-Bruera, M., Weingärtner, D., Listanti, A., Gattei, C., Alvarez, C. J., Barber, H., Rinke, E., & <strong>Lago, S.</strong> (under review). Heritage Grammars and Language Change: The Case of Clitic Doubling in Spanish.
 <br>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/preprints/psyarxiv/trkwh_v2" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/preprints/psyarxiv/trkwh_v3" target="_blank" rel="noopener">
   Preprint
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.17605/OSF.IO/NP8RF" target="_blank" rel="noopener">
   Data
