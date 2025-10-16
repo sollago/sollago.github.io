@@ -45,7 +45,7 @@ Listanti, A., Torregrossa, & <strong>Lago, S.</strong> (submitted). L1 and L2 se
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Martinez-Bruera, M., Weingärtner, D., Listanti, A., Gattei, C., Alvarez, C. J., Barber, H., Rinke, E., & <strong>Lago, S.</strong> (2025). Heritage Grammars and Language Change: The Case of Clitic Doubling in Spanish. <em> Heritage Language Journal</em>, 22(1), 1–32.
+Martinez-Bruera, M., Weingärtner, D., Listanti, A., Gattei, C., Alvarez, C. J., Barber, H., Rinke, E., & <strong>Lago, S.</strong> (2025). Heritage Grammars and Language Change: the Case of Clitic Doubling in Spanish. <em> Heritage Language Journal</em>, 22(1), 1–32.
 <br>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1163/15507076-bja10048" target="_blank" rel="noopener">
   Publication
