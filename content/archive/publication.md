@@ -26,19 +26,6 @@ Veríssimo, J., & <strong>Lago, S.</strong> (under review). A novel method for d
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Martinez-Bruera, M., Weingärtner, D., Listanti, A., Gattei, C., Alvarez, C. J., Barber, H., Rinke, E., & <strong>Lago, S.</strong> (under review). Heritage Grammars and Language Change: The Case of Clitic Doubling in Spanish.
-<br>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.31234/osf.io/trkwh_v3" target="_blank" rel="noopener">
-  Preprint
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.17605/OSF.IO/NP8RF" target="_blank" rel="noopener">
-  Data
-</a>
-</ul>
-
-<br>
-
-<ul class="default simple">
-<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Rinke, E., Weingärtner, D., Flores, C., Martinez-Bruera, M., Listanti, A., Novo Gomes, J., & <strong>Lago, S.</strong> (under review). Are heritage speakers one step ahead in ongoing processes of diachronic change?
 </ul>
 
@@ -55,6 +42,21 @@ Listanti, A., Torregrossa, & <strong>Lago, S.</strong> (submitted). L1 and L2 se
 
 <div class="section" id="2025">
 <h2>2025</h2>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Martinez-Bruera, M., Weingärtner, D., Listanti, A., Gattei, C., Alvarez, C. J., Barber, H., Rinke, E., & <strong>Lago, S.</strong> (2025). Heritage Grammars and Language Change: The Case of Clitic Doubling in Spanish. <em> Heritage Language Journal</em>, 22(1), 1–32.
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1163/15507076-bja10048" target="_blank" rel="noopener">
+  Publication
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.31234/osf.io/trkwh_v4" target="_blank" rel="noopener">
+  Preprint
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.17605/OSF.IO/NP8RF" target="_blank" rel="noopener">
+  Data
+</a>
+</ul>
+
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
