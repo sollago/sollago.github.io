@@ -26,13 +26,6 @@ Veríssimo, J., & <strong>Lago, S.</strong> (under review). A novel method for d
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Rinke, E., Weingärtner, D., Flores, C., Martinez-Bruera, M., Listanti, A., Novo Gomes, J., & <strong>Lago, S.</strong> (under review). Are heritage speakers one step ahead in ongoing processes of diachronic change?
-</ul>
-
-<br>
-
-<ul class="default simple">
-<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Listanti, A., Torregrossa, & <strong>Lago, S.</strong> (submitted). L1 and L2 sensitivity to unaccusativity and information structure constraints on Italian word order.
 </ul>
 
@@ -42,6 +35,19 @@ Listanti, A., Torregrossa, & <strong>Lago, S.</strong> (submitted). L1 and L2 se
 
 <div class="section" id="2025">
 <h2>2025</h2>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Rinke, E., Weingärtner, D., Flores, C., Martinez-Bruera, M., Listanti, A., Novo Gomes, J., & <strong>Lago, S.</strong> (2025). Are heritage speakers one step ahead in ongoing processes of diachronic change? <em>Linguistic Approaches to Bilingualism</em>.
+<br>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1075/lab.25014.rin" target="_blank" rel="noopener">
+  Publication
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.17605/OSF.IO/WBNY8" target="_blank" rel="noopener">
+  Data
+</a>
+</ul>
+
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
