@@ -15,7 +15,7 @@ share: false
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 Veríssimo, J., & <strong>Lago, S.</strong> (under review). A novel method for detecting the onset of experimental effects in visual world eye-tracking.
 <br>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/preprints/psyarxiv/yk4xb_v3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/preprints/psyarxiv/yk4xb_v4" target="_blank" rel="noopener">
   Preprint
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.17605/OSF.IO/9ETHQ" target="_blank" rel="noopener">
   Data
