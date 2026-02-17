@@ -482,7 +482,7 @@ interaction of contextual and syntactic information in the processing of Turkish
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/s10936-017-9502-2" target="_blank" rel="noopener">
 Publication
 </a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://osf.io/9s722//" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.17605/OSF.IO/9S722" target="_blank" rel="noopener">
 Data
 </a>
 <br><br>
