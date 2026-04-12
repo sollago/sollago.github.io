@@ -3,13 +3,27 @@ title: "Publications"
 layout: archive
 # hidden: true
 type: posts
-date: "2025-09-02"
+date: "2026-04-12"
 # summary: This page contains all publications
 share: false
 ---
 
 <div class="section" id="articles-in-progress">
 <h2>In progress</h2>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Martinez-Bruera, M., Weingärtner, D., Listanti, A., Gattei, C., Alvarez, C. J., Barber, H., Veríssimo, J., Rinke, E., & <strong>Lago, S.</strong> (submitted). Optionality and dative clitic doubling in Spanish: Evaluating diachrony-based expectations of processing advantages.
+</ul>
+
+<br>
+
+<ul class="default simple">
+<i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Sá-Leite, A. R., Fraga, I., Eichler, L., & <strong>Lago, S.</strong> (submitted). Beyond canonical endings: The role of orthographic cues in grammatical gender retrieval in Spanish and German.
+</ul>
+
+<br>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
