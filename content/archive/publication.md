@@ -3,7 +3,7 @@ title: "Publications"
 layout: archive
 # hidden: true
 type: posts
-date: "2026-04-12"
+date: "2026-06-07"
 # summary: This page contains all publications
 share: false
 ---
@@ -20,7 +20,7 @@ Martinez-Bruera, M., Weingärtner, D., Listanti, A., Gattei, C., Alvarez, C. J.,
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Sá-Leite, A. R., Fraga, I., Eichler, L., & <strong>Lago, S.</strong> (submitted). Beyond canonical endings: The role of orthographic cues in grammatical gender retrieval in Spanish and German.
+Sá-Leite, A. R., Fraga, I., Eichler, L., & <strong>Lago, S.</strong> (under review). Beyond canonical endings: The role of orthographic cues in grammatical gender retrieval in Spanish and German.
 </ul>
 
 <br>
@@ -40,19 +40,19 @@ Veríssimo, J., & <strong>Lago, S.</strong> (under review). A novel method for d
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Listanti, A., Torregrossa, & <strong>Lago, S.</strong> (submitted). L1 and L2 sensitivity to unaccusativity and information structure constraints on Italian word order.
+Listanti, A., Torregrossa, & <strong>Lago, S.</strong> (under review). L1 and L2 sensitivity to unaccusativity and information structure constraints on Italian word order.
 </ul>
 
 <br>
 
 </div>
 
-<div class="section" id="2025">
-<h2>2025</h2>
+<div class="section" id="2026">
+<h2>2026</h2>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-Rinke, E., Weingärtner, D., Flores, C., Martinez-Bruera, M., Listanti, A., Novo Gomes, J., & <strong>Lago, S.</strong> (2025). Are heritage speakers one step ahead in ongoing processes of diachronic change? <em>Linguistic Approaches to Bilingualism</em>.
+Rinke, E., Weingärtner, D., Flores, C., Martinez-Bruera, M., Listanti, A., Novo Gomes, J., & <strong>Lago, S.</strong> (2026). Are heritage speakers one step ahead in ongoing processes of diachronic change? <em>Linguistic Approaches to Bilingualism</em>, 16(3), 369–395.
 <br>
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1075/lab.25014.rin" target="_blank" rel="noopener">
   Publication
@@ -61,7 +61,10 @@ Rinke, E., Weingärtner, D., Flores, C., Martinez-Bruera, M., Listanti, A., Novo
 </a>
 </ul>
 
-<br>
+</div>
+
+<div class="section" id="2025">
+<h2>2025</h2>
 
 <ul class="default simple">
 <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
